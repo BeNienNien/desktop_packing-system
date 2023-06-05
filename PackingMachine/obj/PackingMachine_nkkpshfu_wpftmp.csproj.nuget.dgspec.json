@@ -1,0 +1,267 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\LUẬN VĂN\\11_2\\PackingMachine\\PackingMachine.csproj": {}
+  },
+  "projects": {
+    "E:\\LUẬN VĂN\\11_2\\ModuleSeperateOrder\\ModuleSeperateOrder.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\LUẬN VĂN\\11_2\\ModuleSeperateOrder\\ModuleSeperateOrder.csproj",
+        "projectName": "ModuleSeperateOrder",
+        "projectPath": "E:\\LUẬN VĂN\\11_2\\ModuleSeperateOrder\\ModuleSeperateOrder.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "E:\\LUẬN VĂN\\11_2\\ModuleSeperateOrder\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\LUẬN VĂN\\11_2\\PackingMachine.core\\PackingMachine.core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\LUẬN VĂN\\11_2\\PackingMachine.core\\PackingMachine.core.csproj",
+        "projectName": "PackingMachine.core",
+        "projectPath": "E:\\LUẬN VĂN\\11_2\\PackingMachine.core\\PackingMachine.core.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "E:\\LUẬN VĂN\\11_2\\PackingMachine.core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "E:\\LUẬN VĂN\\11_2\\ModuleSeperateOrder\\ModuleSeperateOrder.csproj": {
+                "projectPath": "E:\\LUẬN VĂN\\11_2\\ModuleSeperateOrder\\ModuleSeperateOrder.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "AWSSDK": {
+              "target": "Package",
+              "version": "[2.3.55.2, )"
+            },
+            "EPPlus": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "MassTransit.Grpc": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "MaterialDesignColors": {
+              "target": "Package",
+              "version": "[2.0.5, )"
+            },
+            "MaterialDesignThemes.Wpf": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Prism.Wpf": {
+              "target": "Package",
+              "version": "[8.0.0.1909, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\LUẬN VĂN\\11_2\\PackingMachine\\PackingMachine.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\LUẬN VĂN\\11_2\\PackingMachine\\PackingMachine.csproj",
+        "projectName": "PackingMachine",
+        "projectPath": "E:\\LUẬN VĂN\\11_2\\PackingMachine\\PackingMachine.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "E:\\LUẬN VĂN\\11_2\\PackingMachine\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "E:\\LUẬN VĂN\\11_2\\PackingMachine.core\\PackingMachine.core.csproj": {
+                "projectPath": "E:\\LUẬN VĂN\\11_2\\PackingMachine.core\\PackingMachine.core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "AWSSDK": {
+              "target": "Package",
+              "version": "[2.3.55.2, )"
+            },
+            "EPPlus": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "FontAwesome.WPF": {
+              "target": "Package",
+              "version": "[4.7.0.9, )"
+            },
+            "MassTransit.Grpc": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "MaterialDesignColors": {
+              "target": "Package",
+              "version": "[2.0.5, )"
+            },
+            "MaterialDesignThemes": {
+              "target": "Package",
+              "version": "[4.4.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Prism.Wpf": {
+              "target": "Package",
+              "version": "[8.0.0.1909, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

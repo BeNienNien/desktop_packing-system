@@ -1,0 +1,1144 @@
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\Assets\images\cancelicon.png
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\Assets\images\information.png
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\Assets\images\Logo BK_vien trang (1).jpg
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\Assets\images\LogoHCMUT.png
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\Assets\images\tickicon.png
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\Assets\images\Warning.png
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\PackingMachine.exe
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\PackingMachine.deps.json
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\PackingMachine.runtimeconfig.json
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\PackingMachine.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\ref\PackingMachine.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\PackingMachine.pdb
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\AWSSDK.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\EPPlus.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\EPPlus.Interfaces.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\EPPlus.System.Drawing.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\FontAwesome.WPF.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\Grpc.Core.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\Grpc.Core.Api.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\Grpc.Net.Client.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\Grpc.Net.Common.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\MassTransit.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\MassTransit.Abstractions.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\MassTransit.GrpcTransport.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\MassTransit.Newtonsoft.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\Prism.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\Prism.Wpf.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\ModuleSeperateOrder.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\PackingMachine.core.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\PackingMachine.core.pdb
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\ModuleSeperateOrder.pdb
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.csproj.AssemblyReference.cache
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\obj\Debug\net6.0-windows\Assets\components\MenuButton.baml
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\obj\Debug\net6.0-windows\Assets\Style\ColumnHeader.baml
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\obj\Debug\net6.0-windows\Assets\Style\MenuButton.baml
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\obj\Debug\net6.0-windows\Assets\Style\Scroll.baml
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\obj\Debug\net6.0-windows\Style\Color.baml
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\obj\Debug\net6.0-windows\Style\ColumnHeader.baml
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\obj\Debug\net6.0-windows\View\Report\ProductivityView.baml
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\obj\Debug\net6.0-windows\View\Setting\FisrtInforSettingView.baml
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\obj\Debug\net6.0-windows\Assets\components\MenuButton.g.cs
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\obj\Debug\net6.0-windows\Assets\components\MessageBox\MessageBox.g.cs
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\obj\Debug\net6.0-windows\Assets\components\MessageBox\WarningBox.g.cs
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\obj\Debug\net6.0-windows\View\History\HistoryView.g.cs
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\obj\Debug\net6.0-windows\View\Login\LoginView.g.cs
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\obj\Debug\net6.0-windows\View\Report\PackingReportView.g.cs
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\obj\Debug\net6.0-windows\View\Report\ProductivityView.g.cs
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\obj\Debug\net6.0-windows\View\Report\ReportView.g.cs
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\obj\Debug\net6.0-windows\View\Setting\FisrtInforSettingView.g.cs
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\obj\Debug\net6.0-windows\View\Setting\IngredientSettingView.g.cs
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\obj\Debug\net6.0-windows\View\Setting\MainSetting.g.cs
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\obj\Debug\net6.0-windows\View\Setting\SettingView.g.cs
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\obj\Debug\net6.0-windows\View\Supervisor\SupervisorView.g.cs
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\obj\Debug\net6.0-windows\View\Warning\WarningView.g.cs
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\obj\Debug\net6.0-windows\PackingMachine_Content.g.cs
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\obj\Debug\net6.0-windows\PackingMachine_MarkupCompile.cache
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\obj\Debug\net6.0-windows\PackingMachine_MarkupCompile.lref
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\obj\Debug\net6.0-windows\App.baml
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\obj\Debug\net6.0-windows\Assets\components\MessageBox\MessageBox.baml
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\obj\Debug\net6.0-windows\Assets\components\MessageBox\WarningBox.baml
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\obj\Debug\net6.0-windows\View\History\HistoryView.baml
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\obj\Debug\net6.0-windows\View\Login\LoginView.baml
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\obj\Debug\net6.0-windows\View\Report\PackingReportView.baml
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\obj\Debug\net6.0-windows\View\Report\ReportView.baml
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\obj\Debug\net6.0-windows\View\Setting\IngredientSettingView.baml
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\obj\Debug\net6.0-windows\View\Setting\MainSetting.baml
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\obj\Debug\net6.0-windows\View\Setting\SettingView.baml
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\obj\Debug\net6.0-windows\View\Supervisor\SupervisorView.baml
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\obj\Debug\net6.0-windows\View\Warning\WarningView.baml
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.g.resources
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.AssemblyInfoInputs.cache
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.AssemblyInfo.cs
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.csproj.CoreCompileInputs.cache
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.csproj.CopyComplete
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\obj\Debug\net6.0-windows\ref\PackingMachine.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.pdb
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.genruntimeconfig.cache
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\Assets\images\CHA.png
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Assets\images\cancelicon.png
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Assets\images\information.png
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Assets\images\Logo BK_vien trang (1).jpg
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Assets\images\LogoHCMUT.png
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Assets\images\tickicon.png
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Assets\images\CHA.png
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Assets\images\Warning.png
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\PackingMachine.exe
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\PackingMachine.deps.json
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\PackingMachine.runtimeconfig.json
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\PackingMachine.dll
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\PackingMachine.pdb
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\AWSSDK.dll
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\EPPlus.dll
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\EPPlus.Interfaces.dll
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\EPPlus.System.Drawing.dll
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\FontAwesome.WPF.dll
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Google.Protobuf.dll
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Grpc.Core.dll
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Grpc.Core.Api.dll
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Grpc.Net.Client.dll
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Grpc.Net.Common.dll
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\MassTransit.dll
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\MassTransit.Abstractions.dll
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\MassTransit.GrpcTransport.dll
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\MassTransit.Newtonsoft.dll
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.dll
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Debug.dll
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Newtonsoft.Json.Bson.dll
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Prism.dll
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Prism.Wpf.dll
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\System.Text.Json.dll
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\ModuleSeperateOrder.dll
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\PackingMachine.core.dll
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\PackingMachine.core.pdb
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\ModuleSeperateOrder.pdb
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.csproj.AssemblyReference.cache
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\Assets\components\MenuButton.baml
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\Assets\Style\ColumnHeader.baml
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\Assets\Style\MenuButton.baml
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\Assets\Style\Scroll.baml
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\Style\Color.baml
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\Style\ColumnHeader.baml
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Report\ProductivityView.baml
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Setting\FisrtInforSettingView.baml
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\Assets\components\MenuButton.g.cs
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\Assets\components\MessageBox\MessageBox.g.cs
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\Assets\components\MessageBox\WarningBox.g.cs
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\History\HistoryView.g.cs
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Login\LoginView.g.cs
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Report\PackingReportView.g.cs
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Report\ProductivityView.g.cs
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Report\ReportView.g.cs
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Setting\FisrtInforSettingView.g.cs
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Setting\IngredientSettingView.g.cs
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Setting\MainSetting.g.cs
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Setting\SettingView.g.cs
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Supervisor\SupervisorView.g.cs
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Warning\WarningView.g.cs
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\App.g.cs
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\PackingMachine_Content.g.cs
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\PackingMachine_MarkupCompile.cache
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\PackingMachine_MarkupCompile.lref
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\App.baml
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\Assets\components\MessageBox\MessageBox.baml
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\Assets\components\MessageBox\WarningBox.baml
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\MainWindow.baml
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\History\HistoryView.baml
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Login\LoginView.baml
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Report\PackingReportView.baml
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Report\ReportView.baml
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Setting\IngredientSettingView.baml
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Setting\MainSetting.baml
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Setting\SettingView.baml
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Supervisor\SupervisorView.baml
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Warning\WarningView.baml
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.g.resources
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.AssemblyInfoInputs.cache
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.AssemblyInfo.cs
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.csproj.CoreCompileInputs.cache
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.csproj.CopyComplete
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.dll
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\refint\PackingMachine.dll
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.pdb
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.genruntimeconfig.cache
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\ref\PackingMachine.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Assets\images\cancelicon.png
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Assets\images\information.png
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Assets\images\Logo BK_vien trang (1).jpg
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Assets\images\LogoHCMUT.png
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Assets\images\tickicon.png
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Assets\images\CHA.png
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Assets\images\Warning.png
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\PackingMachine.exe
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\PackingMachine.deps.json
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\PackingMachine.runtimeconfig.json
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\PackingMachine.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\PackingMachine.pdb
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\AWSSDK.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\EPPlus.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\EPPlus.Interfaces.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\EPPlus.System.Drawing.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\FontAwesome.WPF.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Grpc.Core.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Grpc.Core.Api.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Grpc.Net.Client.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Grpc.Net.Common.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\MassTransit.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\MassTransit.Abstractions.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\MassTransit.GrpcTransport.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\MassTransit.Newtonsoft.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Prism.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Prism.Wpf.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\ModuleSeperateOrder.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\PackingMachine.core.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\PackingMachine.core.pdb
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\ModuleSeperateOrder.pdb
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\Assets\components\MenuButton.baml
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\Assets\Style\ColumnHeader.baml
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\Assets\Style\MenuButton.baml
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\Assets\Style\Scroll.baml
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\Style\Color.baml
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\Style\ColumnHeader.baml
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Report\ProductivityView.baml
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Setting\FisrtInforSettingView.baml
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\Assets\components\MenuButton.g.cs
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\Assets\components\MessageBox\MessageBox.g.cs
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\Assets\components\MessageBox\WarningBox.g.cs
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\History\HistoryView.g.cs
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Login\LoginView.g.cs
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Report\PackingReportView.g.cs
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Report\ProductivityView.g.cs
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Report\ReportView.g.cs
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Setting\FisrtInforSettingView.g.cs
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Setting\IngredientSettingView.g.cs
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Setting\MainSetting.g.cs
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Setting\SettingView.g.cs
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Supervisor\SupervisorView.g.cs
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Warning\WarningView.g.cs
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\PackingMachine_Content.g.cs
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\PackingMachine_MarkupCompile.cache
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\PackingMachine_MarkupCompile.lref
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\App.baml
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\Assets\components\MessageBox\MessageBox.baml
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\Assets\components\MessageBox\WarningBox.baml
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\History\HistoryView.baml
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Login\LoginView.baml
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Report\PackingReportView.baml
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Report\ReportView.baml
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Setting\IngredientSettingView.baml
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Setting\MainSetting.baml
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Setting\SettingView.baml
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Supervisor\SupervisorView.baml
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Warning\WarningView.baml
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.g.resources
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.AssemblyInfo.cs
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.csproj.CopyComplete
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\refint\PackingMachine.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.pdb
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.genruntimeconfig.cache
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\ref\PackingMachine.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Assets\images\cancelicon.png
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Assets\images\information.png
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Assets\images\Logo BK_vien trang (1).jpg
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Assets\images\LogoHCMUT.png
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Assets\images\tickicon.png
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Assets\images\CHA.png
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Assets\images\Warning.png
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\PackingMachine.exe
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\PackingMachine.deps.json
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\PackingMachine.runtimeconfig.json
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\PackingMachine.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\PackingMachine.pdb
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\AWSSDK.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\EPPlus.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\EPPlus.Interfaces.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\EPPlus.System.Drawing.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\FontAwesome.WPF.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Google.Protobuf.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Grpc.Core.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Grpc.Core.Api.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Grpc.Net.Client.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Grpc.Net.Common.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\MassTransit.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\MassTransit.Abstractions.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\MassTransit.GrpcTransport.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\MassTransit.Newtonsoft.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Debug.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Newtonsoft.Json.Bson.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Prism.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Prism.Wpf.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\System.Text.Json.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\ModuleSeperateOrder.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\PackingMachine.core.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\PackingMachine.core.pdb
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\ModuleSeperateOrder.pdb
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.csproj.AssemblyReference.cache
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\Assets\components\MenuButton.baml
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\Assets\Style\ColumnHeader.baml
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\Assets\Style\MenuButton.baml
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\Assets\Style\Scroll.baml
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\Style\Color.baml
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\Style\ColumnHeader.baml
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Report\ProductivityView.baml
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Setting\FisrtInforSettingView.baml
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\Assets\components\MenuButton.g.cs
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\Assets\components\MessageBox\MessageBox.g.cs
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\Assets\components\MessageBox\WarningBox.g.cs
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\History\HistoryView.g.cs
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Login\LoginView.g.cs
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Report\PackingReportView.g.cs
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Report\ProductivityView.g.cs
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Report\ReportView.g.cs
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Setting\FisrtInforSettingView.g.cs
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Setting\IngredientSettingView.g.cs
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Setting\MainSetting.g.cs
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Setting\SettingView.g.cs
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Supervisor\SupervisorView.g.cs
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Warning\WarningView.g.cs
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\App.g.cs
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\PackingMachine_Content.g.cs
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\PackingMachine_MarkupCompile.cache
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\PackingMachine_MarkupCompile.lref
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\App.baml
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\Assets\components\MessageBox\MessageBox.baml
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\Assets\components\MessageBox\WarningBox.baml
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\MainWindow.baml
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\History\HistoryView.baml
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Login\LoginView.baml
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Report\PackingReportView.baml
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Report\ReportView.baml
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Setting\IngredientSettingView.baml
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Setting\MainSetting.baml
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Setting\SettingView.baml
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Supervisor\SupervisorView.baml
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Warning\WarningView.baml
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.g.resources
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.GeneratedMSBuildEditorConfig.editorconfig
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.AssemblyInfoInputs.cache
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.AssemblyInfo.cs
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.csproj.CoreCompileInputs.cache
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.csproj.CopyComplete
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\refint\PackingMachine.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.pdb
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.genruntimeconfig.cache
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\ref\PackingMachine.dll
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Assets\images\cancelicon.png
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Assets\images\information.png
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Assets\images\Logo BK_vien trang (1).jpg
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Assets\images\LogoHCMUT.png
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Assets\images\tickicon.png
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Assets\images\CHA.png
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Assets\images\Warning.png
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\PackingMachine.exe
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\PackingMachine.deps.json
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\PackingMachine.runtimeconfig.json
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\PackingMachine.dll
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\PackingMachine.pdb
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\AWSSDK.dll
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\EPPlus.dll
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\EPPlus.Interfaces.dll
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\EPPlus.System.Drawing.dll
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\FontAwesome.WPF.dll
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Google.Protobuf.dll
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Grpc.Core.dll
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Grpc.Core.Api.dll
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Grpc.Net.Client.dll
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Grpc.Net.Common.dll
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\MassTransit.dll
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\MassTransit.Abstractions.dll
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\MassTransit.GrpcTransport.dll
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\MassTransit.Newtonsoft.dll
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.dll
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Debug.dll
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Newtonsoft.Json.Bson.dll
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Prism.dll
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\Prism.Wpf.dll
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\ModuleSeperateOrder.dll
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\PackingMachine.core.dll
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\PackingMachine.core.pdb
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\bin\Debug\net6.0-windows\ModuleSeperateOrder.pdb
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.csproj.AssemblyReference.cache
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\Assets\components\MenuButton.baml
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\Assets\Style\ColumnHeader.baml
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\Assets\Style\MenuButton.baml
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\Assets\Style\Scroll.baml
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\Style\Color.baml
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\Style\ColumnHeader.baml
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Report\ProductivityView.baml
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Setting\FisrtInforSettingView.baml
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\Assets\components\MenuButton.g.cs
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\Assets\components\MessageBox\MessageBox.g.cs
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\Assets\components\MessageBox\WarningBox.g.cs
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\History\HistoryView.g.cs
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Login\LoginView.g.cs
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Report\PackingReportView.g.cs
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Report\ProductivityView.g.cs
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Report\ReportView.g.cs
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Setting\FisrtInforSettingView.g.cs
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Setting\IngredientSettingView.g.cs
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Setting\MainSetting.g.cs
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Setting\SettingView.g.cs
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Supervisor\SupervisorView.g.cs
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Warning\WarningView.g.cs
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\App.g.cs
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\PackingMachine_Content.g.cs
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\PackingMachine_MarkupCompile.cache
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\PackingMachine_MarkupCompile.lref
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\App.baml
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\Assets\components\MessageBox\MessageBox.baml
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\Assets\components\MessageBox\WarningBox.baml
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\MainWindow.baml
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\History\HistoryView.baml
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Login\LoginView.baml
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Report\PackingReportView.baml
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Report\ReportView.baml
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Setting\IngredientSettingView.baml
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Setting\MainSetting.baml
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Setting\SettingView.baml
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Supervisor\SupervisorView.baml
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\View\Warning\WarningView.baml
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.g.resources
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.GeneratedMSBuildEditorConfig.editorconfig
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.AssemblyInfoInputs.cache
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.AssemblyInfo.cs
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.csproj.CoreCompileInputs.cache
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.csproj.CopyComplete
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.dll
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\refint\PackingMachine.dll
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.pdb
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.genruntimeconfig.cache
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine\obj\Debug\net6.0-windows\ref\PackingMachine.dll
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\Assets\images\cancelicon.png
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\Assets\images\information.png
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\Assets\images\Logo BK_vien trang (1).jpg
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\Assets\images\LogoHCMUT.png
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\Assets\images\tickicon.png
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\Assets\images\CHA.png
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\Assets\images\Warning.png
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\PackingMachine.exe
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\PackingMachine.deps.json
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\PackingMachine.runtimeconfig.json
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\PackingMachine.dll
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\PackingMachine.pdb
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\AWSSDK.dll
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\EPPlus.dll
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\EPPlus.Interfaces.dll
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\EPPlus.System.Drawing.dll
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\FontAwesome.WPF.dll
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\Google.Protobuf.dll
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\Grpc.Core.dll
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\Grpc.Core.Api.dll
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\Grpc.Net.Client.dll
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\Grpc.Net.Common.dll
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\MassTransit.dll
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\MassTransit.Abstractions.dll
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\MassTransit.GrpcTransport.dll
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\MassTransit.Newtonsoft.dll
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.dll
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Debug.dll
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\Newtonsoft.Json.Bson.dll
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\Prism.dll
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\Prism.Wpf.dll
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\System.Text.Json.dll
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\ModuleSeperateOrder.dll
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\PackingMachine.core.dll
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\PackingMachine.core.pdb
+E:\LUẬN VĂN\11_2\PackingMachine\bin\Debug\net6.0-windows\ModuleSeperateOrder.pdb
+E:\LUẬN VĂN\11_2\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.csproj.AssemblyReference.cache
+E:\LUẬN VĂN\11_2\PackingMachine\obj\Debug\net6.0-windows\Assets\components\MenuButton.baml
+E:\LUẬN VĂN\11_2\PackingMachine\obj\Debug\net6.0-windows\Assets\Style\ColumnHeader.baml
+E:\LUẬN VĂN\11_2\PackingMachine\obj\Debug\net6.0-windows\Assets\Style\MenuButton.baml
+E:\LUẬN VĂN\11_2\PackingMachine\obj\Debug\net6.0-windows\Assets\Style\Scroll.baml
+E:\LUẬN VĂN\11_2\PackingMachine\obj\Debug\net6.0-windows\Style\Color.baml
+E:\LUẬN VĂN\11_2\PackingMachine\obj\Debug\net6.0-windows\Style\ColumnHeader.baml
+E:\LUẬN VĂN\11_2\PackingMachine\obj\Debug\net6.0-windows\View\Report\ProductivityView.baml
+E:\LUẬN VĂN\11_2\PackingMachine\obj\Debug\net6.0-windows\View\Setting\FisrtInforSettingView.baml
+E:\LUẬN VĂN\11_2\PackingMachine\obj\Debug\net6.0-windows\Assets\components\MenuButton.g.cs
+E:\LUẬN VĂN\11_2\PackingMachine\obj\Debug\net6.0-windows\Assets\components\MessageBox\MessageBox.g.cs
+E:\LUẬN VĂN\11_2\PackingMachine\obj\Debug\net6.0-windows\Assets\components\MessageBox\WarningBox.g.cs
+E:\LUẬN VĂN\11_2\PackingMachine\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\LUẬN VĂN\11_2\PackingMachine\obj\Debug\net6.0-windows\View\History\HistoryView.g.cs
+E:\LUẬN VĂN\11_2\PackingMachine\obj\Debug\net6.0-windows\View\Login\LoginView.g.cs
+E:\LUẬN VĂN\11_2\PackingMachine\obj\Debug\net6.0-windows\View\Report\PackingReportView.g.cs
+E:\LUẬN VĂN\11_2\PackingMachine\obj\Debug\net6.0-windows\View\Report\ProductivityView.g.cs
+E:\LUẬN VĂN\11_2\PackingMachine\obj\Debug\net6.0-windows\View\Setting\FisrtInforSettingView.g.cs
+E:\LUẬN VĂN\11_2\PackingMachine\obj\Debug\net6.0-windows\View\Setting\IngredientSettingView.g.cs
+E:\LUẬN VĂN\11_2\PackingMachine\obj\Debug\net6.0-windows\View\Setting\MainSetting.g.cs
+E:\LUẬN VĂN\11_2\PackingMachine\obj\Debug\net6.0-windows\View\Setting\SettingView.g.cs
+E:\LUẬN VĂN\11_2\PackingMachine\obj\Debug\net6.0-windows\View\Supervisor\SupervisorView.g.cs
+E:\LUẬN VĂN\11_2\PackingMachine\obj\Debug\net6.0-windows\View\Warning\WarningView.g.cs
+E:\LUẬN VĂN\11_2\PackingMachine\obj\Debug\net6.0-windows\App.g.cs
+E:\LUẬN VĂN\11_2\PackingMachine\obj\Debug\net6.0-windows\PackingMachine_Content.g.cs
+E:\LUẬN VĂN\11_2\PackingMachine\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\LUẬN VĂN\11_2\PackingMachine\obj\Debug\net6.0-windows\PackingMachine_MarkupCompile.cache
+E:\LUẬN VĂN\11_2\PackingMachine\obj\Debug\net6.0-windows\PackingMachine_MarkupCompile.lref
+E:\LUẬN VĂN\11_2\PackingMachine\obj\Debug\net6.0-windows\App.baml
+E:\LUẬN VĂN\11_2\PackingMachine\obj\Debug\net6.0-windows\Assets\components\MessageBox\MessageBox.baml
+E:\LUẬN VĂN\11_2\PackingMachine\obj\Debug\net6.0-windows\Assets\components\MessageBox\WarningBox.baml
+E:\LUẬN VĂN\11_2\PackingMachine\obj\Debug\net6.0-windows\MainWindow.baml
+E:\LUẬN VĂN\11_2\PackingMachine\obj\Debug\net6.0-windows\View\History\HistoryView.baml
+E:\LUẬN VĂN\11_2\PackingMachine\obj\Debug\net6.0-windows\View\Login\LoginView.baml
+E:\LUẬN VĂN\11_2\PackingMachine\obj\Debug\net6.0-windows\View\Report\PackingReportView.baml
+E:\LUẬN VĂN\11_2\PackingMachine\obj\Debug\net6.0-windows\View\Setting\IngredientSettingView.baml
+E:\LUẬN VĂN\11_2\PackingMachine\obj\Debug\net6.0-windows\View\Setting\MainSetting.baml
+E:\LUẬN VĂN\11_2\PackingMachine\obj\Debug\net6.0-windows\View\Setting\SettingView.baml
+E:\LUẬN VĂN\11_2\PackingMachine\obj\Debug\net6.0-windows\View\Supervisor\SupervisorView.baml
+E:\LUẬN VĂN\11_2\PackingMachine\obj\Debug\net6.0-windows\View\Warning\WarningView.baml
+E:\LUẬN VĂN\11_2\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.g.resources
+E:\LUẬN VĂN\11_2\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.GeneratedMSBuildEditorConfig.editorconfig
+E:\LUẬN VĂN\11_2\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.AssemblyInfoInputs.cache
+E:\LUẬN VĂN\11_2\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.AssemblyInfo.cs
+E:\LUẬN VĂN\11_2\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.csproj.CoreCompileInputs.cache
+E:\LUẬN VĂN\11_2\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.csproj.CopyComplete
+E:\LUẬN VĂN\11_2\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.dll
+E:\LUẬN VĂN\11_2\PackingMachine\obj\Debug\net6.0-windows\refint\PackingMachine.dll
+E:\LUẬN VĂN\11_2\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.pdb
+E:\LUẬN VĂN\11_2\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.genruntimeconfig.cache
+E:\LUẬN VĂN\11_2\PackingMachine\obj\Debug\net6.0-windows\ref\PackingMachine.dll
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\Assets\images\cancelicon.png
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\Assets\images\information.png
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\Assets\images\LogoHCMUT.png
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\Assets\images\tickicon.png
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\Assets\images\Warning.png
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\PackingMachine.exe
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\PackingMachine.deps.json
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\PackingMachine.runtimeconfig.json
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\PackingMachine.dll
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\PackingMachine.pdb
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\AWSSDK.dll
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\EPPlus.dll
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\EPPlus.Interfaces.dll
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\EPPlus.System.Drawing.dll
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\FontAwesome.WPF.dll
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\Google.Protobuf.dll
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\Grpc.Core.dll
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\Grpc.Core.Api.dll
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\Grpc.Net.Client.dll
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\Grpc.Net.Common.dll
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\MassTransit.dll
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\MassTransit.Abstractions.dll
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\MassTransit.GrpcTransport.dll
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\MassTransit.Newtonsoft.dll
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.dll
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Debug.dll
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\Newtonsoft.Json.Bson.dll
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\Prism.dll
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\Prism.Wpf.dll
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\System.Text.Json.dll
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\ModuleSeperateOrder.dll
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\PackingMachine.core.dll
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\PackingMachine.core.pdb
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\ModuleSeperateOrder.pdb
+E:\LEARNING\11_2\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.csproj.AssemblyReference.cache
+E:\LEARNING\11_2\PackingMachine\obj\Debug\net6.0-windows\Assets\components\MenuButton.baml
+E:\LEARNING\11_2\PackingMachine\obj\Debug\net6.0-windows\Assets\Style\ColumnHeader.baml
+E:\LEARNING\11_2\PackingMachine\obj\Debug\net6.0-windows\Assets\Style\MenuButton.baml
+E:\LEARNING\11_2\PackingMachine\obj\Debug\net6.0-windows\Assets\Style\Scroll.baml
+E:\LEARNING\11_2\PackingMachine\obj\Debug\net6.0-windows\Style\Color.baml
+E:\LEARNING\11_2\PackingMachine\obj\Debug\net6.0-windows\Style\ColumnHeader.baml
+E:\LEARNING\11_2\PackingMachine\obj\Debug\net6.0-windows\View\Setting\FisrtInforSettingView.baml
+E:\LEARNING\11_2\PackingMachine\obj\Debug\net6.0-windows\Assets\components\MenuButton.g.cs
+E:\LEARNING\11_2\PackingMachine\obj\Debug\net6.0-windows\Assets\components\MessageBox\MessageBox.g.cs
+E:\LEARNING\11_2\PackingMachine\obj\Debug\net6.0-windows\Assets\components\MessageBox\WarningBox.g.cs
+E:\LEARNING\11_2\PackingMachine\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\LEARNING\11_2\PackingMachine\obj\Debug\net6.0-windows\View\History\HistoryView.g.cs
+E:\LEARNING\11_2\PackingMachine\obj\Debug\net6.0-windows\View\Login\LoginView.g.cs
+E:\LEARNING\11_2\PackingMachine\obj\Debug\net6.0-windows\View\Report\PackingReportView.g.cs
+E:\LEARNING\11_2\PackingMachine\obj\Debug\net6.0-windows\View\Setting\FisrtInforSettingView.g.cs
+E:\LEARNING\11_2\PackingMachine\obj\Debug\net6.0-windows\View\Setting\IngredientSettingView.g.cs
+E:\LEARNING\11_2\PackingMachine\obj\Debug\net6.0-windows\View\Setting\MainSetting.g.cs
+E:\LEARNING\11_2\PackingMachine\obj\Debug\net6.0-windows\View\Setting\SettingView.g.cs
+E:\LEARNING\11_2\PackingMachine\obj\Debug\net6.0-windows\View\Supervisor\SupervisorView.g.cs
+E:\LEARNING\11_2\PackingMachine\obj\Debug\net6.0-windows\View\Warning\WarningView.g.cs
+E:\LEARNING\11_2\PackingMachine\obj\Debug\net6.0-windows\App.g.cs
+E:\LEARNING\11_2\PackingMachine\obj\Debug\net6.0-windows\PackingMachine_Content.g.cs
+E:\LEARNING\11_2\PackingMachine\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\LEARNING\11_2\PackingMachine\obj\Debug\net6.0-windows\PackingMachine_MarkupCompile.cache
+E:\LEARNING\11_2\PackingMachine\obj\Debug\net6.0-windows\PackingMachine_MarkupCompile.lref
+E:\LEARNING\11_2\PackingMachine\obj\Debug\net6.0-windows\App.baml
+E:\LEARNING\11_2\PackingMachine\obj\Debug\net6.0-windows\Assets\components\MessageBox\MessageBox.baml
+E:\LEARNING\11_2\PackingMachine\obj\Debug\net6.0-windows\Assets\components\MessageBox\WarningBox.baml
+E:\LEARNING\11_2\PackingMachine\obj\Debug\net6.0-windows\MainWindow.baml
+E:\LEARNING\11_2\PackingMachine\obj\Debug\net6.0-windows\View\History\HistoryView.baml
+E:\LEARNING\11_2\PackingMachine\obj\Debug\net6.0-windows\View\Login\LoginView.baml
+E:\LEARNING\11_2\PackingMachine\obj\Debug\net6.0-windows\View\Report\PackingReportView.baml
+E:\LEARNING\11_2\PackingMachine\obj\Debug\net6.0-windows\View\Setting\IngredientSettingView.baml
+E:\LEARNING\11_2\PackingMachine\obj\Debug\net6.0-windows\View\Setting\MainSetting.baml
+E:\LEARNING\11_2\PackingMachine\obj\Debug\net6.0-windows\View\Setting\SettingView.baml
+E:\LEARNING\11_2\PackingMachine\obj\Debug\net6.0-windows\View\Supervisor\SupervisorView.baml
+E:\LEARNING\11_2\PackingMachine\obj\Debug\net6.0-windows\View\Warning\WarningView.baml
+E:\LEARNING\11_2\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.g.resources
+E:\LEARNING\11_2\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.GeneratedMSBuildEditorConfig.editorconfig
+E:\LEARNING\11_2\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.AssemblyInfoInputs.cache
+E:\LEARNING\11_2\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.AssemblyInfo.cs
+E:\LEARNING\11_2\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.csproj.CoreCompileInputs.cache
+E:\LEARNING\11_2\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.csproj.CopyComplete
+E:\LEARNING\11_2\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.dll
+E:\LEARNING\11_2\PackingMachine\obj\Debug\net6.0-windows\refint\PackingMachine.dll
+E:\LEARNING\11_2\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.pdb
+E:\LEARNING\11_2\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.genruntimeconfig.cache
+E:\LEARNING\11_2\PackingMachine\obj\Debug\net6.0-windows\ref\PackingMachine.dll
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\LiveCharts.dll
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\LiveCharts.Wpf.dll
+E:\LEARNING\11_2\PackingMachine\obj\Debug\net6.0-windows\View\Supervisor\EmployeeProView.g.cs
+E:\LEARNING\11_2\PackingMachine\obj\Debug\net6.0-windows\View\Supervisor\EmployeeProView.baml
+E:\LEARNING\11_2\PackingMachine\obj\Debug\net6.0-windows\View\Supervisor\MainSuperView.g.cs
+E:\LEARNING\11_2\PackingMachine\obj\Debug\net6.0-windows\View\Supervisor\MainSuperView.baml
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\Assets\images\1.png
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\Assets\images\Automation.png
+E:\LEARNING\11_2\PackingMachine\bin\Debug\net6.0-windows\Assets\images\Automation1.png
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\Assets\images\1.png
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\Assets\images\Automation.png
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\Assets\images\Automation1.png
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\Assets\images\cancelicon.png
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\Assets\images\information.png
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\Assets\images\LogoHCMUT.png
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\Assets\images\tickicon.png
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\Assets\images\Warning.png
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\PackingMachine.exe
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\PackingMachine.deps.json
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\PackingMachine.runtimeconfig.json
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\PackingMachine.dll
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\PackingMachine.pdb
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\AWSSDK.dll
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\EPPlus.dll
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\EPPlus.Interfaces.dll
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\EPPlus.System.Drawing.dll
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\FontAwesome.WPF.dll
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\Google.Protobuf.dll
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\Grpc.Core.dll
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\Grpc.Core.Api.dll
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\Grpc.Net.Client.dll
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\Grpc.Net.Common.dll
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\LiveCharts.dll
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\LiveCharts.Wpf.dll
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\MassTransit.dll
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\MassTransit.Abstractions.dll
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\MassTransit.GrpcTransport.dll
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\MassTransit.Newtonsoft.dll
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.dll
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Debug.dll
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\Newtonsoft.Json.Bson.dll
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\Prism.dll
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\Prism.Wpf.dll
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\System.Text.Json.dll
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\ModuleSeperateOrder.dll
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\PackingMachine.core.dll
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\PackingMachine.core.pdb
+E:\LEARNING\DesktopApp\PackingMachine\bin\Debug\net6.0-windows\ModuleSeperateOrder.pdb
+E:\LEARNING\DesktopApp\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.csproj.AssemblyReference.cache
+E:\LEARNING\DesktopApp\PackingMachine\obj\Debug\net6.0-windows\Assets\components\MenuButton.baml
+E:\LEARNING\DesktopApp\PackingMachine\obj\Debug\net6.0-windows\Assets\Style\ColumnHeader.baml
+E:\LEARNING\DesktopApp\PackingMachine\obj\Debug\net6.0-windows\Assets\Style\MenuButton.baml
+E:\LEARNING\DesktopApp\PackingMachine\obj\Debug\net6.0-windows\Assets\Style\Scroll.baml
+E:\LEARNING\DesktopApp\PackingMachine\obj\Debug\net6.0-windows\Style\Color.baml
+E:\LEARNING\DesktopApp\PackingMachine\obj\Debug\net6.0-windows\Style\ColumnHeader.baml
+E:\LEARNING\DesktopApp\PackingMachine\obj\Debug\net6.0-windows\View\Setting\FisrtInforSettingView.baml
+E:\LEARNING\DesktopApp\PackingMachine\obj\Debug\net6.0-windows\Assets\components\MenuButton.g.cs
+E:\LEARNING\DesktopApp\PackingMachine\obj\Debug\net6.0-windows\Assets\components\MessageBox\MessageBox.g.cs
+E:\LEARNING\DesktopApp\PackingMachine\obj\Debug\net6.0-windows\Assets\components\MessageBox\WarningBox.g.cs
+E:\LEARNING\DesktopApp\PackingMachine\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\LEARNING\DesktopApp\PackingMachine\obj\Debug\net6.0-windows\View\History\HistoryView.g.cs
+E:\LEARNING\DesktopApp\PackingMachine\obj\Debug\net6.0-windows\View\Login\LoginView.g.cs
+E:\LEARNING\DesktopApp\PackingMachine\obj\Debug\net6.0-windows\View\Report\PackingReportView.g.cs
+E:\LEARNING\DesktopApp\PackingMachine\obj\Debug\net6.0-windows\View\Setting\FisrtInforSettingView.g.cs
+E:\LEARNING\DesktopApp\PackingMachine\obj\Debug\net6.0-windows\View\Setting\IngredientSettingView.g.cs
+E:\LEARNING\DesktopApp\PackingMachine\obj\Debug\net6.0-windows\View\Setting\MainSetting.g.cs
+E:\LEARNING\DesktopApp\PackingMachine\obj\Debug\net6.0-windows\View\Setting\SettingView.g.cs
+E:\LEARNING\DesktopApp\PackingMachine\obj\Debug\net6.0-windows\View\Supervisor\EmployeeProView.g.cs
+E:\LEARNING\DesktopApp\PackingMachine\obj\Debug\net6.0-windows\View\Supervisor\MainSuperView.g.cs
+E:\LEARNING\DesktopApp\PackingMachine\obj\Debug\net6.0-windows\View\Supervisor\SupervisorView.g.cs
+E:\LEARNING\DesktopApp\PackingMachine\obj\Debug\net6.0-windows\View\Warning\WarningView.g.cs
+E:\LEARNING\DesktopApp\PackingMachine\obj\Debug\net6.0-windows\App.g.cs
+E:\LEARNING\DesktopApp\PackingMachine\obj\Debug\net6.0-windows\PackingMachine_Content.g.cs
+E:\LEARNING\DesktopApp\PackingMachine\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\LEARNING\DesktopApp\PackingMachine\obj\Debug\net6.0-windows\PackingMachine_MarkupCompile.cache
+E:\LEARNING\DesktopApp\PackingMachine\obj\Debug\net6.0-windows\PackingMachine_MarkupCompile.lref
+E:\LEARNING\DesktopApp\PackingMachine\obj\Debug\net6.0-windows\App.baml
+E:\LEARNING\DesktopApp\PackingMachine\obj\Debug\net6.0-windows\Assets\components\MessageBox\MessageBox.baml
+E:\LEARNING\DesktopApp\PackingMachine\obj\Debug\net6.0-windows\Assets\components\MessageBox\WarningBox.baml
+E:\LEARNING\DesktopApp\PackingMachine\obj\Debug\net6.0-windows\MainWindow.baml
+E:\LEARNING\DesktopApp\PackingMachine\obj\Debug\net6.0-windows\View\History\HistoryView.baml
+E:\LEARNING\DesktopApp\PackingMachine\obj\Debug\net6.0-windows\View\Login\LoginView.baml
+E:\LEARNING\DesktopApp\PackingMachine\obj\Debug\net6.0-windows\View\Report\PackingReportView.baml
+E:\LEARNING\DesktopApp\PackingMachine\obj\Debug\net6.0-windows\View\Setting\IngredientSettingView.baml
+E:\LEARNING\DesktopApp\PackingMachine\obj\Debug\net6.0-windows\View\Setting\MainSetting.baml
+E:\LEARNING\DesktopApp\PackingMachine\obj\Debug\net6.0-windows\View\Setting\SettingView.baml
+E:\LEARNING\DesktopApp\PackingMachine\obj\Debug\net6.0-windows\View\Supervisor\EmployeeProView.baml
+E:\LEARNING\DesktopApp\PackingMachine\obj\Debug\net6.0-windows\View\Supervisor\MainSuperView.baml
+E:\LEARNING\DesktopApp\PackingMachine\obj\Debug\net6.0-windows\View\Supervisor\SupervisorView.baml
+E:\LEARNING\DesktopApp\PackingMachine\obj\Debug\net6.0-windows\View\Warning\WarningView.baml
+E:\LEARNING\DesktopApp\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.g.resources
+E:\LEARNING\DesktopApp\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.GeneratedMSBuildEditorConfig.editorconfig
+E:\LEARNING\DesktopApp\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.AssemblyInfoInputs.cache
+E:\LEARNING\DesktopApp\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.AssemblyInfo.cs
+E:\LEARNING\DesktopApp\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.csproj.CoreCompileInputs.cache
+E:\LEARNING\DesktopApp\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.csproj.CopyComplete
+E:\LEARNING\DesktopApp\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.dll
+E:\LEARNING\DesktopApp\PackingMachine\obj\Debug\net6.0-windows\refint\PackingMachine.dll
+E:\LEARNING\DesktopApp\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.pdb
+E:\LEARNING\DesktopApp\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.genruntimeconfig.cache
+E:\LEARNING\DesktopApp\PackingMachine\obj\Debug\net6.0-windows\ref\PackingMachine.dll
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\Assets\images\1.png
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\Assets\images\Automation.png
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\Assets\images\Automation1.png
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\Assets\images\cancelicon.png
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\Assets\images\information.png
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\Assets\images\LogoHCMUT.png
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\Assets\images\tickicon.png
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\Assets\images\Warning.png
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\Assets\images\fablab.jpg
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\Assets\images\InnoFablab.jpg
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\Assets\images\LogoHCMUT.ico
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\PackingMachine.exe
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\PackingMachine.deps.json
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\PackingMachine.runtimeconfig.json
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\PackingMachine.dll
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\PackingMachine.pdb
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\AWSSDK.dll
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\EPPlus.dll
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\EPPlus.Interfaces.dll
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\EPPlus.System.Drawing.dll
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\FontAwesome.WPF.dll
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\Google.Protobuf.dll
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\Grpc.Core.dll
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\Grpc.Core.Api.dll
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\Grpc.Net.Client.dll
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\Grpc.Net.Common.dll
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\LiveCharts.dll
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\LiveCharts.Wpf.dll
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\MassTransit.dll
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\MassTransit.Abstractions.dll
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\MassTransit.GrpcTransport.dll
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\MassTransit.Newtonsoft.dll
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.dll
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Console.dll
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Debug.dll
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\Newtonsoft.Json.Bson.dll
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\Prism.dll
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\Prism.Wpf.dll
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\System.Text.Json.dll
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\ModuleSeperateOrder.dll
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\PackingMachine.core.dll
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\PackingMachine.core.pdb
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Debug\net6.0-windows\ModuleSeperateOrder.pdb
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.csproj.AssemblyReference.cache
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\obj\Debug\net6.0-windows\Assets\components\MenuButton.baml
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\obj\Debug\net6.0-windows\Assets\Style\ColumnHeader.baml
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\obj\Debug\net6.0-windows\Assets\Style\MenuButton.baml
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\obj\Debug\net6.0-windows\Assets\Style\Scroll.baml
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\obj\Debug\net6.0-windows\Style\Color.baml
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\obj\Debug\net6.0-windows\Style\ColumnHeader.baml
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\obj\Debug\net6.0-windows\View\Setting\FisrtInforSettingView.baml
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\obj\Debug\net6.0-windows\Assets\components\MenuButton.g.cs
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\obj\Debug\net6.0-windows\Assets\components\MessageBox\MessageBox.g.cs
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\obj\Debug\net6.0-windows\Assets\components\MessageBox\WarningBox.g.cs
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\obj\Debug\net6.0-windows\View\History\HistoryView.g.cs
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\obj\Debug\net6.0-windows\View\Login\LoginView.g.cs
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\obj\Debug\net6.0-windows\View\Report\PackingReportView.g.cs
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\obj\Debug\net6.0-windows\View\Setting\FisrtInforSettingView.g.cs
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\obj\Debug\net6.0-windows\View\Setting\IngredientSettingView.g.cs
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\obj\Debug\net6.0-windows\View\Setting\MainSetting.g.cs
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\obj\Debug\net6.0-windows\View\Setting\SettingView.g.cs
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\obj\Debug\net6.0-windows\View\Supervisor\EmployeeProView.g.cs
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\obj\Debug\net6.0-windows\View\Supervisor\MainSuperView.g.cs
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\obj\Debug\net6.0-windows\View\Supervisor\SupervisorView.g.cs
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\obj\Debug\net6.0-windows\View\Warning\WarningView.g.cs
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\obj\Debug\net6.0-windows\App.g.cs
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\obj\Debug\net6.0-windows\PackingMachine_Content.g.cs
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\obj\Debug\net6.0-windows\PackingMachine_MarkupCompile.cache
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\obj\Debug\net6.0-windows\PackingMachine_MarkupCompile.lref
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\obj\Debug\net6.0-windows\App.baml
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\obj\Debug\net6.0-windows\Assets\components\MessageBox\MessageBox.baml
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\obj\Debug\net6.0-windows\Assets\components\MessageBox\WarningBox.baml
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\obj\Debug\net6.0-windows\MainWindow.baml
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\obj\Debug\net6.0-windows\View\History\HistoryView.baml
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\obj\Debug\net6.0-windows\View\Login\LoginView.baml
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\obj\Debug\net6.0-windows\View\Report\PackingReportView.baml
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\obj\Debug\net6.0-windows\View\Setting\IngredientSettingView.baml
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\obj\Debug\net6.0-windows\View\Setting\MainSetting.baml
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\obj\Debug\net6.0-windows\View\Setting\SettingView.baml
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\obj\Debug\net6.0-windows\View\Supervisor\EmployeeProView.baml
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\obj\Debug\net6.0-windows\View\Supervisor\MainSuperView.baml
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\obj\Debug\net6.0-windows\View\Supervisor\SupervisorView.baml
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\obj\Debug\net6.0-windows\View\Warning\WarningView.baml
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.g.resources
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.GeneratedMSBuildEditorConfig.editorconfig
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.AssemblyInfoInputs.cache
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.AssemblyInfo.cs
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.csproj.CoreCompileInputs.cache
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.csproj.CopyComplete
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.dll
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\obj\Debug\net6.0-windows\refint\PackingMachine.dll
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.pdb
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\obj\Debug\net6.0-windows\PackingMachine.genruntimeconfig.cache
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\obj\Debug\net6.0-windows\ref\PackingMachine.dll

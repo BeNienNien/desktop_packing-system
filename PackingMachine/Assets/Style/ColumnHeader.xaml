@@ -1,0 +1,69 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <ResourceDictionary.MergedDictionaries>
+        <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.ListBox.xaml" />
+        <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.TextBox.xaml" />
+        <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Thumb.xaml" />
+    </ResourceDictionary.MergedDictionaries>
+    <Style 
+        x:Key="GridViewColumnHeaderStyle1" TargetType="{x:Type GridViewColumnHeader}">
+        <Style.Triggers>
+            <Trigger Property="IsFocused" Value="True">
+                <Setter Property="FontWeight" Value="Bold"/>
+                <Setter Property="Foreground" Value="Black"/>
+                <Setter Property="Background" Value="#004BA0"/>
+            </Trigger>
+            <Trigger Property="IsMouseOver" Value="True">
+                <Setter Property="BorderBrush" Value="{x:Null}"/>
+                <Setter Property="Foreground" Value="Black"/>
+            </Trigger>
+        </Style.Triggers>
+        <!--<Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type GridViewColumnHeader}">
+                    <Border>
+                        <TextBlock x:Name="ContentHeader" Text="{TemplateBinding Content}" Padding="10 0 5 0" Width="{TemplateBinding Width}" 
+                                  VerticalAlignment="Center" TextAlignment="Center" />
+                    </Border>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>-->
+        <Setter Property="OverridesDefaultStyle" Value="True" />
+        <!--<Setter Property="ScrollViewer.PanningMode" Value="Both" />-->
+        <Setter Property="Stylus.IsFlicksEnabled" Value="False" />
+        <!--<Setter Property="SnapsToDevicePixels" Value="True" />-->
+        <Setter Property="OverridesDefaultStyle" Value="False" />
+        <!--<Setter Property="ScrollViewer.HorizontalScrollBarVisibility" Value="Auto" />-->
+        <!--<Setter Property="ScrollViewer.CanContentScroll" Value="True" />-->
+        <Setter Property="VerticalAlignment" Value="Center" />
+        <Setter Property="Background" Value="#FF0E3A60" />
+        <Setter Property="BorderThickness" Value="0 2 0 2" />
+        <Setter Property="BorderBrush" Value="Black" />
+        <Setter Property="Foreground" Value="White" />
+        <Setter Property="FontSize" Value="13pt" />
+        <Setter Property="Padding" Value="5" />
+    </Style>
+    <Style BasedOn="{StaticResource MaterialDesignDataGridColumnHeader}"
+        x:Key="DataGridColumnHeaderStyle2" TargetType="{x:Type DataGridColumnHeader}">
+        <Setter Property="VerticalAlignment" Value="Center" />
+        <Setter Property="Background" Value="#FF0E3A60" />
+        <Setter Property="BorderThickness" Value="1 1.5 1 1.5" />
+        <Setter Property="BorderBrush" Value="#002F6C" />
+        <Setter Property="Foreground" Value="White" />
+        <Setter Property="FontSize" Value="13pt" />
+        <Setter Property="Padding" Value="17 3 0 2" />
+        <Setter Property="HorizontalContentAlignment" Value="Stretch"/>
+        <Style.Triggers>
+            <Trigger Property="IsKeyboardFocused" Value="True">
+                <Setter Property="Foreground" Value="#FFF"/>
+                <Setter Property="Background" Value="#002F6F"/>
+            </Trigger>
+            <Trigger Property="IsMouseOver" Value="True">
+                <Setter Property="Foreground" Value="Black"/>
+                <Setter Property="Background" Value="#FF859EC1"/>
+                <Setter Property="BorderBrush" Value="#FF859ECF"/>
+
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+</ResourceDictionary>

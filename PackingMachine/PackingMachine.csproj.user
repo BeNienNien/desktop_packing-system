@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>E:\LUẬN VĂN\desktop_packing-system\PackingMachine\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Assets\components\MessageBox\MessageBox.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Assets\components\MessageBox\WarningBox.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\History\HistoryView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Report\PackingReportView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Setting\FisrtInforSettingView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Setting\IngredientSettingView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Setting\MainSetting.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Supervisor\EmployeeProView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Supervisor\MainSuperView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Supervisor\SupervisorView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Warning\WarningView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Assets\components\MenuButton.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Assets\components\MessageBox\MessageBox.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Assets\components\MessageBox\WarningBox.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Assets\Style\ColumnHeader.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Assets\Style\MenuButton.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Assets\Style\Scroll.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Style\Color.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Style\ColumnHeader.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\History\HistoryView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Report\PackingReportView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Setting\FisrtInforSettingView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Setting\IngredientSettingView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Setting\MainSetting.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Setting\SettingView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Supervisor\EmployeeProView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Supervisor\MainSuperView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Supervisor\SupervisorView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Warning\WarningView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

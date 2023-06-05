@@ -1,0 +1,12 @@
+E:\LUẬN VĂN\desktop_packing-system\ModuleSeperateOrder\bin\Release\net6.0-windows\ModuleSeperateOrder.deps.json
+E:\LUẬN VĂN\desktop_packing-system\ModuleSeperateOrder\bin\Release\net6.0-windows\ModuleSeperateOrder.dll
+E:\LUẬN VĂN\desktop_packing-system\ModuleSeperateOrder\bin\Release\net6.0-windows\ModuleSeperateOrder.pdb
+E:\LUẬN VĂN\desktop_packing-system\ModuleSeperateOrder\obj\Release\net6.0-windows\ModuleSeperateOrder.csproj.AssemblyReference.cache
+E:\LUẬN VĂN\desktop_packing-system\ModuleSeperateOrder\obj\Release\net6.0-windows\ModuleSeperateOrder.GeneratedMSBuildEditorConfig.editorconfig
+E:\LUẬN VĂN\desktop_packing-system\ModuleSeperateOrder\obj\Release\net6.0-windows\ModuleSeperateOrder.AssemblyInfoInputs.cache
+E:\LUẬN VĂN\desktop_packing-system\ModuleSeperateOrder\obj\Release\net6.0-windows\ModuleSeperateOrder.AssemblyInfo.cs
+E:\LUẬN VĂN\desktop_packing-system\ModuleSeperateOrder\obj\Release\net6.0-windows\ModuleSeperateOrder.csproj.CoreCompileInputs.cache
+E:\LUẬN VĂN\desktop_packing-system\ModuleSeperateOrder\obj\Release\net6.0-windows\ModuleSeperateOrder.dll
+E:\LUẬN VĂN\desktop_packing-system\ModuleSeperateOrder\obj\Release\net6.0-windows\refint\ModuleSeperateOrder.dll
+E:\LUẬN VĂN\desktop_packing-system\ModuleSeperateOrder\obj\Release\net6.0-windows\ModuleSeperateOrder.pdb
+E:\LUẬN VĂN\desktop_packing-system\ModuleSeperateOrder\obj\Release\net6.0-windows\ref\ModuleSeperateOrder.dll

@@ -1,0 +1,203 @@
+﻿<UserControl x:Class="PackingMachine.View.Setting.FisrtInforSettingView"
+               xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             Height="760" 
+             Width="1260.6"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" 
+             TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+             TextElement.FontSize="18pt"
+             TextOptions.TextFormattingMode="Ideal"
+             TextOptions.TextRenderingMode="Auto"
+             Background="WhiteSmoke"
+             FontFamily="{DynamicResource MaterialDesignFont}"
+             x:Name="CaiDat" >
+    <UserControl.Resources>
+        <ResourceDictionary>
+            <BooleanToVisibilityConverter x:Key="BooleanToVisibilityConverter" />
+        </ResourceDictionary>
+    </UserControl.Resources>
+    <Grid Height="{Binding Path=ActualHeight, ElementName=CaiDat}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="5*"/>
+            <RowDefinition Height="13*"/>
+            <RowDefinition Height="2.3*"/>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="1.5*"/>
+            </Grid.ColumnDefinitions>
+            <StackPanel Grid.Column="0" Orientation="Vertical" HorizontalAlignment="Center">
+                <ComboBox materialDesign:HintAssist.Hint="Tên nhân viên" Width="245" Height="40"
+                        IsEditable="True" VerticalContentAlignment="Center"
+                        FontSize="18" Padding="10 5" Margin="0 5" Background="#FFE9EFF1"
+                          ItemsSource="{Binding ItemSourceEmployee}"
+                        SelectedIndex="{Binding SelectedIndex}"/>
+                <TextBox materialDesign:HintAssist.Hint="Năng suất" Width="245" Height="40"
+                        VerticalContentAlignment="Center" Background="#FFE9EFF1"
+                        FontSize="18" Padding="10 5" Margin="0 5"
+                         Text="{Binding Performance}"/>
+                <Grid  Height="67">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition></ColumnDefinition>
+                        <ColumnDefinition></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <Button 
+                        Grid.Column="0"
+                        Content="THÊM" Margin="35 0"
+                            FontSize="18" Background="#00294D"
+                            Height="50" Width="130"
+                            materialDesign:ButtonAssist.CornerRadius="0"
+                            Command="{Binding AddCommand}"/>
+                    <Button  
+                        Grid.Column="1"
+                        Content="XÓA" Command="{Binding DeleteCommand}"
+                            FontSize="18" Background="#00294D"
+                            materialDesign:ButtonAssist.CornerRadius="0"
+                            Height="50" Width="130"
+                            Margin="35 0"/>
+                </Grid>
+            </StackPanel>
+            <DataGrid Margin="109,0,49,0" RowBackground="LightGray" Background="#FFE9EFF1"
+                      SelectedItem="{Binding seleted, UpdateSourceTrigger=PropertyChanged}"
+                      IsReadOnly="True" CanUserReorderColumns="False" Grid.Column="1"
+                      materialDesign:DataGridAssist.ColumnHeaderPadding="10 4 5 4"
+                      ItemsSource="{Binding Employees, Mode=TwoWay}" AutoGenerateColumns="False"
+                      ColumnHeaderStyle="{StaticResource DataGridColumnHeaderStyle1}">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="NHÂN VIÊN" Width="300" Binding="{Binding Id}">
+                        <DataGridTextColumn.ElementStyle>
+                            <Style TargetType="TextBlock">
+                                <Setter Property="HorizontalAlignment" Value="Center" />
+                                <Setter Property="VerticalAlignment" Value="Center"></Setter>
+                                <Setter Property="FontSize" Value="18"></Setter>
+                            </Style>
+                        </DataGridTextColumn.ElementStyle>
+                    </DataGridTextColumn>
+                    <DataGridTextColumn Header="NĂNG SUẤT" Width="300" Binding="{Binding Performance}">
+                        <DataGridTextColumn.Foreground>
+                            <SolidColorBrush Color="#FF090101" />
+                        </DataGridTextColumn.Foreground>
+                        <DataGridTextColumn.ElementStyle>
+                            <Style TargetType="TextBlock">
+                                <Setter Property="HorizontalAlignment" Value="Center" />
+                                <Setter Property="VerticalAlignment" Value="Center"></Setter>
+                                <Setter Property="FontSize" Value="18"></Setter>
+                            </Style>
+                        </DataGridTextColumn.ElementStyle>
+                    </DataGridTextColumn>
+                </DataGrid.Columns>
+            </DataGrid>
+        </Grid>
+        <Grid Grid.Row="1" Margin="5 15">
+            <DataGrid SelectedItem="{Binding seleted, UpdateSourceTrigger=PropertyChanged}"
+                      x:Name="DataGridSetting" IsReadOnly="True" CanUserReorderColumns="False"
+                      materialDesign:DataGridAssist.ColumnHeaderPadding="12 4 5 4"
+                      ItemsSource="{Binding AssignmentTasks}" AutoGenerateColumns="False"
+                      ColumnHeaderStyle="{StaticResource DataGridColumnHeaderStyle1}">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="MÃ SP" Width="230" Binding="{Binding Id}">
+                        <DataGridTextColumn.ElementStyle>
+                            <Style TargetType="TextBlock">
+                                <Setter Property="HorizontalAlignment" Value="Left" />
+                                <Setter Property="VerticalAlignment" Value="Center"></Setter>
+                                <Setter Property="FontSize" Value="18"></Setter>
+                            </Style>
+                        </DataGridTextColumn.ElementStyle>
+                    </DataGridTextColumn>
+                    <DataGridTextColumn Header="TÊN SP" Width="400" Binding="{Binding Name}">
+                        <DataGridTextColumn.Foreground>
+                            <SolidColorBrush Color="#FF090101" />
+                        </DataGridTextColumn.Foreground>
+                        <DataGridTextColumn.ElementStyle>
+                            <Style TargetType="TextBlock">
+                                <Setter Property="HorizontalAlignment" Value="Left" />
+                                <Setter Property="VerticalAlignment" Value="Center"></Setter>
+                                <Setter Property="FontSize" Value="18"></Setter>
+                            </Style>
+                        </DataGridTextColumn.ElementStyle>
+                    </DataGridTextColumn>
+                    <DataGridTextColumn Header="SL YÊU CẦU" Width="200" Binding="{Binding ProductQuantity}">
+                        <DataGridTextColumn.Foreground>
+                            <SolidColorBrush Color="#FF090101" />
+                        </DataGridTextColumn.Foreground>
+                        <DataGridTextColumn.ElementStyle>
+                            <Style TargetType="TextBlock">
+                                <Setter Property="HorizontalAlignment" Value="Center" />
+                                <Setter Property="VerticalAlignment" Value="Center"></Setter>
+                                <Setter Property="FontSize" Value="18"></Setter>
+                            </Style>
+                        </DataGridTextColumn.ElementStyle>
+                    </DataGridTextColumn>
+
+                    <DataGridTextColumn Header="KL CÔNG VIỆC" Width="220" Binding="{Binding Workload}">
+                        <DataGridTextColumn.Foreground>
+                            <SolidColorBrush Color="#FF090101" />
+                        </DataGridTextColumn.Foreground>
+                        <DataGridTextColumn.ElementStyle>
+                            <Style TargetType="TextBlock" >
+                                <Setter Property="HorizontalAlignment" Value="Center" />
+                                <Setter Property="VerticalAlignment" Value="Center"></Setter>
+                                <Setter Property="FontSize" Value="18"></Setter>
+                            </Style>
+                        </DataGridTextColumn.ElementStyle>
+                    </DataGridTextColumn>
+                    <DataGridTextColumn Header="MỨC ĐỘ ƯU TIÊN" Width="200" Binding="{Binding Priority}">
+                        <DataGridTextColumn.Foreground>
+                            <SolidColorBrush Color="#FF090101" />
+                        </DataGridTextColumn.Foreground>
+                        <DataGridTextColumn.ElementStyle>
+                            <Style TargetType="TextBlock">
+                                <Setter Property="HorizontalAlignment" Value="Center" />
+                                <Setter Property="VerticalAlignment" Value="Center"></Setter>
+                                <Setter Property="FontSize" Value="18"></Setter>
+                            </Style>
+                        </DataGridTextColumn.ElementStyle>
+                    </DataGridTextColumn>
+                </DataGrid.Columns>
+                <DataGrid.InputBindings>
+                    <MouseBinding MouseAction="LeftDoubleClick" 
+                                Command="{Binding DetailCommand}" 
+                                CommandParameter="{Binding ElementName=DataGridSetting, Path=SelectedItems}">
+                    </MouseBinding>
+                </DataGrid.InputBindings>
+            </DataGrid>
+        </Grid>
+        <Grid  Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Button 
+                Grid.Column="0"
+                Content="TẢI EXCEL" Margin="58 0"
+                            FontSize="18" Background="#00294D"
+                            Height="55" Width="150"
+                            materialDesign:ButtonAssist.CornerRadius="0"
+                            Command="{Binding ImportExcelCommand}"/>
+            <Button  
+                Grid.Column="1" Content="CHỈNH SỬA" Command="{Binding WriteCommand}"
+                            FontSize="18" Background="#00294D"
+                            materialDesign:ButtonAssist.CornerRadius="0"
+                            Height="55" Width="150"
+                            Margin="58 0"/>
+            <Button Grid.Column="2" Content="XÓA" Command="{Binding WriteCommand}"
+                            FontSize="18" Background="#00294D"
+                            materialDesign:ButtonAssist.CornerRadius="0"
+                            Height="55" Width="150"
+                            Margin="58 0"/>
+            <Button Grid.Column="3" Content="TRUY XUẤT" Command="{Binding ExportExcelCommand}"
+                            FontSize="18" Background="#00294D"
+                            materialDesign:ButtonAssist.CornerRadius="0"
+                            Height="55" Width="150"
+                            Margin="58 0"/>
+        </Grid>
+        <Grid Height="10"></Grid>
+    </Grid>
+</UserControl>

@@ -1,0 +1,87 @@
+﻿<UserControl x:Class="PackingMachine.Assets.components.MessageBox.WarningBox"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:PackingMachine.Assets.components.MessageBox"
+             mc:Ignorable="d" 
+             
+            x:Name="root"
+            xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+            Width="450"
+            Height="200"
+            xmlns:viewmodel="clr-namespace:PackingMachine.core.ViewModel.Components.MessageBox;assembly=PackingMachine.core"
+            d:DataContext = "{x:Static viewmodel:WarningBoxViewModel.Instance}"
+            FontFamily="{DynamicResource MaterialDesignFont}"
+            TextElement.FontSize="13"
+            TextElement.FontWeight="Regular"
+            TextOptions.TextFormattingMode="Ideal"
+            TextOptions.TextRenderingMode="Auto">
+    <Border CornerRadius="10">
+        <materialDesign:Card>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="3*" />
+                    <RowDefinition Height="7.5*" />
+                    <RowDefinition Height="4.5*" />
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0" Background=" #FFCC00">
+                    <TextBlock
+                                Grid.Column="0"
+                                HorizontalAlignment="Left"
+                                FontFamily="Arial"
+                                FontSize="18"
+                                Margin="10,0,0,0"
+                                FontWeight="Bold"
+                                VerticalAlignment="Center"
+                                Foreground="Black">
+                        Cảnh báo
+                    </TextBlock>
+                    <Button
+                                Background="#FFCC00"
+                                Grid.Column="1"
+                                HorizontalAlignment="Right"
+                                Command="{x:Static materialDesign:DialogHost.CloseDialogCommand}"
+                                Content="{materialDesign:PackIcon Kind=CloseBox,
+                                                                  Size=18}"
+                                Foreground="White"
+                                IsCancel="True"
+                                Style="{StaticResource MaterialDesignFlatButton}" />
+                </Grid>
+                <Grid
+                    Grid.Row="1"
+                    HorizontalAlignment="Center"
+                    VerticalAlignment="Center">
+                    <StackPanel Orientation="Horizontal">
+                        <Image Source="\Assets\images\Warning.png" Height="40" Width="60"></Image>
+                        <TextBlock
+                            FontSize="20"
+                             Margin="10" 
+                            Text="{Binding ContentText}" >
+                        </TextBlock>
+                    </StackPanel>
+                </Grid>
+                <Grid Grid.Row="2">
+                    <Grid>
+                        <Button
+                            Width="120"
+                            Height="40"
+                            Background="WhiteSmoke"
+                            BorderThickness="0"
+                            Command="{Binding CloseWarningCommand}"
+                            FontSize="20"
+                            IsDefault="True"
+                            Style="{StaticResource MaterialDesignFlatButton}">
+                            <Button.Content>
+                                <StackPanel Orientation="Horizontal">
+                                    <TextBlock  VerticalAlignment="Center"> Xác nhận</TextBlock>
+                                    <!--<Image VerticalAlignment="Center" Margin="2" Source="\Assets\images\tickicon.png" Height="10" Width="15" ></Image>-->
+                                </StackPanel>
+                            </Button.Content>
+                        </Button>
+                    </Grid>
+                </Grid>
+            </Grid>
+        </materialDesign:Card>
+    </Border>
+</UserControl>

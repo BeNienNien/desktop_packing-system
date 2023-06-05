@@ -1,0 +1,108 @@
+C:\Users\a\Desktop\WPF\Project\PackingMachine\ModuleSeperateOrder\bin\Debug\net6.0-windows\ModuleSeperateOrder.deps.json
+C:\Users\a\Desktop\WPF\Project\PackingMachine\ModuleSeperateOrder\bin\Debug\net6.0-windows\ModuleSeperateOrder.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\ModuleSeperateOrder\bin\Debug\net6.0-windows\ref\ModuleSeperateOrder.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\ModuleSeperateOrder\bin\Debug\net6.0-windows\ModuleSeperateOrder.pdb
+C:\Users\a\Desktop\WPF\Project\PackingMachine\ModuleSeperateOrder\obj\Debug\net6.0-windows\ModuleSeperateOrder.csproj.AssemblyReference.cache
+C:\Users\a\Desktop\WPF\Project\PackingMachine\ModuleSeperateOrder\obj\Debug\net6.0-windows\ModuleSeperateOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a\Desktop\WPF\Project\PackingMachine\ModuleSeperateOrder\obj\Debug\net6.0-windows\ModuleSeperateOrder.AssemblyInfoInputs.cache
+C:\Users\a\Desktop\WPF\Project\PackingMachine\ModuleSeperateOrder\obj\Debug\net6.0-windows\ModuleSeperateOrder.AssemblyInfo.cs
+C:\Users\a\Desktop\WPF\Project\PackingMachine\ModuleSeperateOrder\obj\Debug\net6.0-windows\ModuleSeperateOrder.csproj.CoreCompileInputs.cache
+C:\Users\a\Desktop\WPF\Project\PackingMachine\ModuleSeperateOrder\obj\Debug\net6.0-windows\ModuleSeperateOrder.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\ModuleSeperateOrder\obj\Debug\net6.0-windows\ref\ModuleSeperateOrder.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\ModuleSeperateOrder\obj\Debug\net6.0-windows\ModuleSeperateOrder.pdb
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\ModuleSeperateOrder\bin\Debug\net6.0-windows\ModuleSeperateOrder.deps.json
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\ModuleSeperateOrder\bin\Debug\net6.0-windows\ModuleSeperateOrder.dll
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\ModuleSeperateOrder\bin\Debug\net6.0-windows\ModuleSeperateOrder.pdb
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\ModuleSeperateOrder\obj\Debug\net6.0-windows\ModuleSeperateOrder.csproj.AssemblyReference.cache
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\ModuleSeperateOrder\obj\Debug\net6.0-windows\ModuleSeperateOrder.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\ModuleSeperateOrder\obj\Debug\net6.0-windows\ModuleSeperateOrder.AssemblyInfoInputs.cache
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\ModuleSeperateOrder\obj\Debug\net6.0-windows\ModuleSeperateOrder.AssemblyInfo.cs
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\ModuleSeperateOrder\obj\Debug\net6.0-windows\ModuleSeperateOrder.csproj.CoreCompileInputs.cache
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\ModuleSeperateOrder\obj\Debug\net6.0-windows\ModuleSeperateOrder.dll
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\ModuleSeperateOrder\obj\Debug\net6.0-windows\refint\ModuleSeperateOrder.dll
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\ModuleSeperateOrder\obj\Debug\net6.0-windows\ModuleSeperateOrder.pdb
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\ModuleSeperateOrder\obj\Debug\net6.0-windows\ref\ModuleSeperateOrder.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\ModuleSeperateOrder\bin\Debug\net6.0-windows\ModuleSeperateOrder.deps.json
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\ModuleSeperateOrder\bin\Debug\net6.0-windows\ModuleSeperateOrder.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\ModuleSeperateOrder\bin\Debug\net6.0-windows\ModuleSeperateOrder.pdb
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\ModuleSeperateOrder\obj\Debug\net6.0-windows\ModuleSeperateOrder.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\ModuleSeperateOrder\obj\Debug\net6.0-windows\ModuleSeperateOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\ModuleSeperateOrder\obj\Debug\net6.0-windows\ModuleSeperateOrder.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\ModuleSeperateOrder\obj\Debug\net6.0-windows\ModuleSeperateOrder.AssemblyInfo.cs
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\ModuleSeperateOrder\obj\Debug\net6.0-windows\ModuleSeperateOrder.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\ModuleSeperateOrder\obj\Debug\net6.0-windows\ModuleSeperateOrder.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\ModuleSeperateOrder\obj\Debug\net6.0-windows\refint\ModuleSeperateOrder.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\ModuleSeperateOrder\obj\Debug\net6.0-windows\ModuleSeperateOrder.pdb
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\ModuleSeperateOrder\obj\Debug\net6.0-windows\ref\ModuleSeperateOrder.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\ModuleSeperateOrder\bin\Debug\net6.0-windows\ModuleSeperateOrder.deps.json
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\ModuleSeperateOrder\bin\Debug\net6.0-windows\ModuleSeperateOrder.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\ModuleSeperateOrder\bin\Debug\net6.0-windows\ModuleSeperateOrder.pdb
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\ModuleSeperateOrder\obj\Debug\net6.0-windows\ModuleSeperateOrder.csproj.AssemblyReference.cache
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\ModuleSeperateOrder\obj\Debug\net6.0-windows\ModuleSeperateOrder.GeneratedMSBuildEditorConfig.editorconfig
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\ModuleSeperateOrder\obj\Debug\net6.0-windows\ModuleSeperateOrder.AssemblyInfoInputs.cache
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\ModuleSeperateOrder\obj\Debug\net6.0-windows\ModuleSeperateOrder.AssemblyInfo.cs
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\ModuleSeperateOrder\obj\Debug\net6.0-windows\ModuleSeperateOrder.csproj.CoreCompileInputs.cache
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\ModuleSeperateOrder\obj\Debug\net6.0-windows\ModuleSeperateOrder.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\ModuleSeperateOrder\obj\Debug\net6.0-windows\refint\ModuleSeperateOrder.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\ModuleSeperateOrder\obj\Debug\net6.0-windows\ModuleSeperateOrder.pdb
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\ModuleSeperateOrder\obj\Debug\net6.0-windows\ref\ModuleSeperateOrder.dll
+D:\luận văn\desktop_cha_packing-system-develop\ModuleSeperateOrder\bin\Debug\net6.0-windows\ModuleSeperateOrder.deps.json
+D:\luận văn\desktop_cha_packing-system-develop\ModuleSeperateOrder\bin\Debug\net6.0-windows\ModuleSeperateOrder.dll
+D:\luận văn\desktop_cha_packing-system-develop\ModuleSeperateOrder\bin\Debug\net6.0-windows\ModuleSeperateOrder.pdb
+D:\luận văn\desktop_cha_packing-system-develop\ModuleSeperateOrder\obj\Debug\net6.0-windows\ModuleSeperateOrder.csproj.AssemblyReference.cache
+D:\luận văn\desktop_cha_packing-system-develop\ModuleSeperateOrder\obj\Debug\net6.0-windows\ModuleSeperateOrder.GeneratedMSBuildEditorConfig.editorconfig
+D:\luận văn\desktop_cha_packing-system-develop\ModuleSeperateOrder\obj\Debug\net6.0-windows\ModuleSeperateOrder.AssemblyInfoInputs.cache
+D:\luận văn\desktop_cha_packing-system-develop\ModuleSeperateOrder\obj\Debug\net6.0-windows\ModuleSeperateOrder.AssemblyInfo.cs
+D:\luận văn\desktop_cha_packing-system-develop\ModuleSeperateOrder\obj\Debug\net6.0-windows\ModuleSeperateOrder.csproj.CoreCompileInputs.cache
+D:\luận văn\desktop_cha_packing-system-develop\ModuleSeperateOrder\obj\Debug\net6.0-windows\ModuleSeperateOrder.dll
+D:\luận văn\desktop_cha_packing-system-develop\ModuleSeperateOrder\obj\Debug\net6.0-windows\refint\ModuleSeperateOrder.dll
+D:\luận văn\desktop_cha_packing-system-develop\ModuleSeperateOrder\obj\Debug\net6.0-windows\ModuleSeperateOrder.pdb
+D:\luận văn\desktop_cha_packing-system-develop\ModuleSeperateOrder\obj\Debug\net6.0-windows\ref\ModuleSeperateOrder.dll
+E:\LUẬN VĂN\11_2\ModuleSeperateOrder\bin\Debug\net6.0-windows\ModuleSeperateOrder.deps.json
+E:\LUẬN VĂN\11_2\ModuleSeperateOrder\bin\Debug\net6.0-windows\ModuleSeperateOrder.dll
+E:\LUẬN VĂN\11_2\ModuleSeperateOrder\bin\Debug\net6.0-windows\ModuleSeperateOrder.pdb
+E:\LUẬN VĂN\11_2\ModuleSeperateOrder\obj\Debug\net6.0-windows\ModuleSeperateOrder.csproj.AssemblyReference.cache
+E:\LUẬN VĂN\11_2\ModuleSeperateOrder\obj\Debug\net6.0-windows\ModuleSeperateOrder.GeneratedMSBuildEditorConfig.editorconfig
+E:\LUẬN VĂN\11_2\ModuleSeperateOrder\obj\Debug\net6.0-windows\ModuleSeperateOrder.AssemblyInfoInputs.cache
+E:\LUẬN VĂN\11_2\ModuleSeperateOrder\obj\Debug\net6.0-windows\ModuleSeperateOrder.AssemblyInfo.cs
+E:\LUẬN VĂN\11_2\ModuleSeperateOrder\obj\Debug\net6.0-windows\ModuleSeperateOrder.csproj.CoreCompileInputs.cache
+E:\LUẬN VĂN\11_2\ModuleSeperateOrder\obj\Debug\net6.0-windows\ModuleSeperateOrder.dll
+E:\LUẬN VĂN\11_2\ModuleSeperateOrder\obj\Debug\net6.0-windows\refint\ModuleSeperateOrder.dll
+E:\LUẬN VĂN\11_2\ModuleSeperateOrder\obj\Debug\net6.0-windows\ModuleSeperateOrder.pdb
+E:\LUẬN VĂN\11_2\ModuleSeperateOrder\obj\Debug\net6.0-windows\ref\ModuleSeperateOrder.dll
+E:\LEARNING\11_2\ModuleSeperateOrder\bin\Debug\net6.0-windows\ModuleSeperateOrder.deps.json
+E:\LEARNING\11_2\ModuleSeperateOrder\bin\Debug\net6.0-windows\ModuleSeperateOrder.dll
+E:\LEARNING\11_2\ModuleSeperateOrder\bin\Debug\net6.0-windows\ModuleSeperateOrder.pdb
+E:\LEARNING\11_2\ModuleSeperateOrder\obj\Debug\net6.0-windows\ModuleSeperateOrder.csproj.AssemblyReference.cache
+E:\LEARNING\11_2\ModuleSeperateOrder\obj\Debug\net6.0-windows\ModuleSeperateOrder.GeneratedMSBuildEditorConfig.editorconfig
+E:\LEARNING\11_2\ModuleSeperateOrder\obj\Debug\net6.0-windows\ModuleSeperateOrder.AssemblyInfoInputs.cache
+E:\LEARNING\11_2\ModuleSeperateOrder\obj\Debug\net6.0-windows\ModuleSeperateOrder.AssemblyInfo.cs
+E:\LEARNING\11_2\ModuleSeperateOrder\obj\Debug\net6.0-windows\ModuleSeperateOrder.csproj.CoreCompileInputs.cache
+E:\LEARNING\11_2\ModuleSeperateOrder\obj\Debug\net6.0-windows\ModuleSeperateOrder.dll
+E:\LEARNING\11_2\ModuleSeperateOrder\obj\Debug\net6.0-windows\refint\ModuleSeperateOrder.dll
+E:\LEARNING\11_2\ModuleSeperateOrder\obj\Debug\net6.0-windows\ModuleSeperateOrder.pdb
+E:\LEARNING\11_2\ModuleSeperateOrder\obj\Debug\net6.0-windows\ref\ModuleSeperateOrder.dll
+E:\LEARNING\DesktopApp\ModuleSeperateOrder\bin\Debug\net6.0-windows\ModuleSeperateOrder.deps.json
+E:\LEARNING\DesktopApp\ModuleSeperateOrder\bin\Debug\net6.0-windows\ModuleSeperateOrder.dll
+E:\LEARNING\DesktopApp\ModuleSeperateOrder\bin\Debug\net6.0-windows\ModuleSeperateOrder.pdb
+E:\LEARNING\DesktopApp\ModuleSeperateOrder\obj\Debug\net6.0-windows\ModuleSeperateOrder.csproj.AssemblyReference.cache
+E:\LEARNING\DesktopApp\ModuleSeperateOrder\obj\Debug\net6.0-windows\ModuleSeperateOrder.GeneratedMSBuildEditorConfig.editorconfig
+E:\LEARNING\DesktopApp\ModuleSeperateOrder\obj\Debug\net6.0-windows\ModuleSeperateOrder.AssemblyInfoInputs.cache
+E:\LEARNING\DesktopApp\ModuleSeperateOrder\obj\Debug\net6.0-windows\ModuleSeperateOrder.AssemblyInfo.cs
+E:\LEARNING\DesktopApp\ModuleSeperateOrder\obj\Debug\net6.0-windows\ModuleSeperateOrder.csproj.CoreCompileInputs.cache
+E:\LEARNING\DesktopApp\ModuleSeperateOrder\obj\Debug\net6.0-windows\ModuleSeperateOrder.dll
+E:\LEARNING\DesktopApp\ModuleSeperateOrder\obj\Debug\net6.0-windows\refint\ModuleSeperateOrder.dll
+E:\LEARNING\DesktopApp\ModuleSeperateOrder\obj\Debug\net6.0-windows\ModuleSeperateOrder.pdb
+E:\LEARNING\DesktopApp\ModuleSeperateOrder\obj\Debug\net6.0-windows\ref\ModuleSeperateOrder.dll
+E:\LUẬN VĂN\desktop_packing-system\ModuleSeperateOrder\bin\Debug\net6.0-windows\ModuleSeperateOrder.deps.json
+E:\LUẬN VĂN\desktop_packing-system\ModuleSeperateOrder\bin\Debug\net6.0-windows\ModuleSeperateOrder.dll
+E:\LUẬN VĂN\desktop_packing-system\ModuleSeperateOrder\bin\Debug\net6.0-windows\ModuleSeperateOrder.pdb
+E:\LUẬN VĂN\desktop_packing-system\ModuleSeperateOrder\obj\Debug\net6.0-windows\ModuleSeperateOrder.csproj.AssemblyReference.cache
+E:\LUẬN VĂN\desktop_packing-system\ModuleSeperateOrder\obj\Debug\net6.0-windows\ModuleSeperateOrder.GeneratedMSBuildEditorConfig.editorconfig
+E:\LUẬN VĂN\desktop_packing-system\ModuleSeperateOrder\obj\Debug\net6.0-windows\ModuleSeperateOrder.AssemblyInfoInputs.cache
+E:\LUẬN VĂN\desktop_packing-system\ModuleSeperateOrder\obj\Debug\net6.0-windows\ModuleSeperateOrder.AssemblyInfo.cs
+E:\LUẬN VĂN\desktop_packing-system\ModuleSeperateOrder\obj\Debug\net6.0-windows\ModuleSeperateOrder.csproj.CoreCompileInputs.cache
+E:\LUẬN VĂN\desktop_packing-system\ModuleSeperateOrder\obj\Debug\net6.0-windows\ModuleSeperateOrder.dll
+E:\LUẬN VĂN\desktop_packing-system\ModuleSeperateOrder\obj\Debug\net6.0-windows\refint\ModuleSeperateOrder.dll
+E:\LUẬN VĂN\desktop_packing-system\ModuleSeperateOrder\obj\Debug\net6.0-windows\ModuleSeperateOrder.pdb
+E:\LUẬN VĂN\desktop_packing-system\ModuleSeperateOrder\obj\Debug\net6.0-windows\ref\ModuleSeperateOrder.dll

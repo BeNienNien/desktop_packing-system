@@ -1,0 +1,61 @@
+﻿<UserControl x:Class="PackingMachine.Assets.components.MenuButton"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" 
+             xmlns:tools="clr-namespace:PackingMachine.core.ValueConverter.MyApp.Tools;assembly=PackingMachine.core"
+             x:Name="root"
+             TextElement.FontFamily="Calibri"
+             TextElement.FontSize="13pt"
+             TextElement.FontWeight="DemiBold"
+             TextOptions.TextFormattingMode="Ideal"
+             TextOptions.TextRenderingMode="Auto"            
+             mc:Ignorable="d" 
+             d:DesignHeight="120" d:DesignWidth="370">
+    <Grid Background="{Binding ElementName=root, Path=BackgroundBTMenu}">
+        <Button x:Name="MainButton"
+                Height="{Binding Path=Height, ElementName=root}"                               
+                materialDesign:ButtonAssist.CornerRadius="0"
+                materialDesign:ShadowAssist.ShadowEdges="None"
+                materialDesign:ShadowAssist.ShadowDepth="Depth0"
+                BorderThickness="0 0.5 0 0"
+                BorderBrush="{Binding Path=BoderBrushBTMenu, ElementName=root}"
+                VerticalContentAlignment="Center"
+                Click="OnClick"
+                Style="{StaticResource MenuButton}">
+            <Button.Content>
+                <Grid>
+                    <StackPanel Orientation="Horizontal"
+                                Visibility="{Binding ElementName=root, Path=Animation1, Converter={StaticResource BooleanToVisibilityConverter}}">
+                        <materialDesign:PackIcon Width="{Binding Path=ActualWidth, ElementName=MainButton, Converter={tools:RatioConverter}, ConverterParameter='0.2'}"
+                            Height="{Binding Path=ActualHeight, ElementName=root}"                               
+                            HorizontalAlignment="Left"
+                            VerticalAlignment="Center"
+                            Foreground="{Binding Path=ForegroundPackicon, ElementName=root}"
+                            Kind="{Binding IconValue, ElementName=root}">
+                        </materialDesign:PackIcon>
+                        <TextBlock Margin="15 0 0 0" x:Name="ContentValue" Width="{Binding Path=ActualWidth, ElementName=MainButton, Converter={tools:RatioConverter}, ConverterParameter='0.7'}"
+                        HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="20pt"
+                        Foreground="{Binding Path=ForegroundText, ElementName=root}"
+                        Text="{Binding Path=ContentText, ElementName=root}" />
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal"
+                                Visibility="{Binding ElementName=root, Path=Animation2, Converter={StaticResource BooleanToVisibilityConverter}}">
+                        <TextBlock Margin="-20 0 15 0" Width="{Binding Path=ActualWidth, ElementName=MainButton, Converter={tools:RatioConverter}, ConverterParameter='0.65'}"
+                        TextAlignment="Right" VerticalAlignment="Center"
+                        Foreground="{Binding Path=ForegroundText, ElementName=root}"
+                        FontSize="20pt" Text="{Binding Path=ContentText, ElementName=root}" />
+                        <materialDesign:PackIcon Width="{Binding Path=ActualWidth, ElementName=MainButton, Converter={tools:RatioConverter}, ConverterParameter='0.2'}"
+                            Height="{Binding Path=ActualHeight, ElementName=root}"                               
+                            HorizontalAlignment="Right"
+                            VerticalAlignment="Center"
+                            Foreground="{Binding Path=ForegroundPackicon, ElementName=root}"
+                            Kind="{Binding IconValue, ElementName=root}">
+                        </materialDesign:PackIcon>
+                    </StackPanel>
+                </Grid>
+            </Button.Content>
+        </Button>
+    </Grid>
+</UserControl>

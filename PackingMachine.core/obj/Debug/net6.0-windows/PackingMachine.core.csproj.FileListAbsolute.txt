@@ -1,0 +1,186 @@
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine.core\bin\Debug\net6.0-windows\PackingMachine.core.deps.json
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine.core\bin\Debug\net6.0-windows\PackingMachine.core.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine.core\bin\Debug\net6.0-windows\ref\PackingMachine.core.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine.core\bin\Debug\net6.0-windows\PackingMachine.core.pdb
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine.core\bin\Debug\net6.0-windows\ModuleSeperateOrder.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine.core\bin\Debug\net6.0-windows\ModuleSeperateOrder.pdb
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.csproj.AssemblyReference.cache
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine.core\obj\Debug\net6.0-windows\Components\CustomMessageBoxWindow.g.cs
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core_MarkupCompile.cache
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core_MarkupCompile.lref
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine.core\obj\Debug\net6.0-windows\Components\CustomMessageBoxWindow.baml
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.g.resources
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.AssemblyInfoInputs.cache
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.AssemblyInfo.cs
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.csproj.CoreCompileInputs.cache
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.csproj.CopyComplete
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine.core\obj\Debug\net6.0-windows\ref\PackingMachine.core.dll
+C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.pdb
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine.core\bin\Debug\net6.0-windows\PackingMachine.core.deps.json
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine.core\bin\Debug\net6.0-windows\PackingMachine.core.dll
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine.core\bin\Debug\net6.0-windows\PackingMachine.core.pdb
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine.core\bin\Debug\net6.0-windows\ModuleSeperateOrder.dll
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine.core\bin\Debug\net6.0-windows\ModuleSeperateOrder.pdb
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.csproj.AssemblyReference.cache
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine.core\obj\Debug\net6.0-windows\Components\CustomMessageBoxWindow.g.cs
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core_MarkupCompile.cache
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core_MarkupCompile.lref
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine.core\obj\Debug\net6.0-windows\Components\CustomMessageBoxWindow.baml
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.g.resources
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.AssemblyInfoInputs.cache
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.AssemblyInfo.cs
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.csproj.CoreCompileInputs.cache
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.csproj.CopyComplete
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.dll
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine.core\obj\Debug\net6.0-windows\refint\PackingMachine.core.dll
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.pdb
+E:\PROJECT\DongGoi\desktop_cha_packing-system-develop\PackingMachine.core\obj\Debug\net6.0-windows\ref\PackingMachine.core.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine.core\bin\Debug\net6.0-windows\PackingMachine.core.deps.json
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine.core\bin\Debug\net6.0-windows\PackingMachine.core.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine.core\bin\Debug\net6.0-windows\PackingMachine.core.pdb
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine.core\bin\Debug\net6.0-windows\ModuleSeperateOrder.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine.core\bin\Debug\net6.0-windows\ModuleSeperateOrder.pdb
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine.core\obj\Debug\net6.0-windows\Components\CustomMessageBoxWindow.g.cs
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core_MarkupCompile.cache
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core_MarkupCompile.lref
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine.core\obj\Debug\net6.0-windows\Components\CustomMessageBoxWindow.baml
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.g.resources
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.AssemblyInfo.cs
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.csproj.CopyComplete
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine.core\obj\Debug\net6.0-windows\refint\PackingMachine.core.dll
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.pdb
+C:\Users\PC\Downloads\desktop_cha_packing-system-develop\PackingMachine.core\obj\Debug\net6.0-windows\ref\PackingMachine.core.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine.core\bin\Debug\net6.0-windows\PackingMachine.core.deps.json
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine.core\bin\Debug\net6.0-windows\PackingMachine.core.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine.core\bin\Debug\net6.0-windows\PackingMachine.core.pdb
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine.core\bin\Debug\net6.0-windows\ModuleSeperateOrder.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine.core\bin\Debug\net6.0-windows\ModuleSeperateOrder.pdb
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.csproj.AssemblyReference.cache
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine.core\obj\Debug\net6.0-windows\Components\CustomMessageBoxWindow.g.cs
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core_MarkupCompile.cache
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core_MarkupCompile.lref
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine.core\obj\Debug\net6.0-windows\Components\CustomMessageBoxWindow.baml
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.g.resources
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.GeneratedMSBuildEditorConfig.editorconfig
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.AssemblyInfoInputs.cache
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.AssemblyInfo.cs
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.csproj.CoreCompileInputs.cache
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.csproj.CopyComplete
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine.core\obj\Debug\net6.0-windows\refint\PackingMachine.core.dll
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.pdb
+E:\LUẬN VĂN\desktop_cha_packing-system-develop\PackingMachine.core\obj\Debug\net6.0-windows\ref\PackingMachine.core.dll
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine.core\bin\Debug\net6.0-windows\PackingMachine.core.deps.json
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine.core\bin\Debug\net6.0-windows\PackingMachine.core.dll
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine.core\bin\Debug\net6.0-windows\PackingMachine.core.pdb
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine.core\bin\Debug\net6.0-windows\ModuleSeperateOrder.dll
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine.core\bin\Debug\net6.0-windows\ModuleSeperateOrder.pdb
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.csproj.AssemblyReference.cache
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine.core\obj\Debug\net6.0-windows\Components\CustomMessageBoxWindow.g.cs
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core_MarkupCompile.cache
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core_MarkupCompile.lref
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine.core\obj\Debug\net6.0-windows\Components\CustomMessageBoxWindow.baml
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.g.resources
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.GeneratedMSBuildEditorConfig.editorconfig
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.AssemblyInfoInputs.cache
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.AssemblyInfo.cs
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.csproj.CoreCompileInputs.cache
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.csproj.CopyComplete
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.dll
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine.core\obj\Debug\net6.0-windows\refint\PackingMachine.core.dll
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.pdb
+D:\luận văn\desktop_cha_packing-system-develop\PackingMachine.core\obj\Debug\net6.0-windows\ref\PackingMachine.core.dll
+E:\LUẬN VĂN\11_2\PackingMachine.core\bin\Debug\net6.0-windows\PackingMachine.core.deps.json
+E:\LUẬN VĂN\11_2\PackingMachine.core\bin\Debug\net6.0-windows\PackingMachine.core.dll
+E:\LUẬN VĂN\11_2\PackingMachine.core\bin\Debug\net6.0-windows\PackingMachine.core.pdb
+E:\LUẬN VĂN\11_2\PackingMachine.core\bin\Debug\net6.0-windows\ModuleSeperateOrder.dll
+E:\LUẬN VĂN\11_2\PackingMachine.core\bin\Debug\net6.0-windows\ModuleSeperateOrder.pdb
+E:\LUẬN VĂN\11_2\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.csproj.AssemblyReference.cache
+E:\LUẬN VĂN\11_2\PackingMachine.core\obj\Debug\net6.0-windows\Components\CustomMessageBoxWindow.g.cs
+E:\LUẬN VĂN\11_2\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core_MarkupCompile.cache
+E:\LUẬN VĂN\11_2\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core_MarkupCompile.lref
+E:\LUẬN VĂN\11_2\PackingMachine.core\obj\Debug\net6.0-windows\Components\CustomMessageBoxWindow.baml
+E:\LUẬN VĂN\11_2\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.g.resources
+E:\LUẬN VĂN\11_2\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.GeneratedMSBuildEditorConfig.editorconfig
+E:\LUẬN VĂN\11_2\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.AssemblyInfoInputs.cache
+E:\LUẬN VĂN\11_2\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.AssemblyInfo.cs
+E:\LUẬN VĂN\11_2\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.csproj.CoreCompileInputs.cache
+E:\LUẬN VĂN\11_2\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.csproj.CopyComplete
+E:\LUẬN VĂN\11_2\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.dll
+E:\LUẬN VĂN\11_2\PackingMachine.core\obj\Debug\net6.0-windows\refint\PackingMachine.core.dll
+E:\LUẬN VĂN\11_2\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.pdb
+E:\LUẬN VĂN\11_2\PackingMachine.core\obj\Debug\net6.0-windows\ref\PackingMachine.core.dll
+E:\LEARNING\11_2\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.csproj.AssemblyReference.cache
+E:\LEARNING\11_2\PackingMachine.core\obj\Debug\net6.0-windows\Components\CustomMessageBoxWindow.g.cs
+E:\LEARNING\11_2\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core_MarkupCompile.cache
+E:\LEARNING\11_2\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core_MarkupCompile.lref
+E:\LEARNING\11_2\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.dll
+E:\LEARNING\11_2\PackingMachine.core\obj\Debug\net6.0-windows\refint\PackingMachine.core.dll
+E:\LEARNING\11_2\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.pdb
+E:\LEARNING\11_2\PackingMachine.core\bin\Debug\net6.0-windows\PackingMachine.core.deps.json
+E:\LEARNING\11_2\PackingMachine.core\bin\Debug\net6.0-windows\PackingMachine.core.dll
+E:\LEARNING\11_2\PackingMachine.core\bin\Debug\net6.0-windows\PackingMachine.core.pdb
+E:\LEARNING\11_2\PackingMachine.core\bin\Debug\net6.0-windows\ModuleSeperateOrder.dll
+E:\LEARNING\11_2\PackingMachine.core\bin\Debug\net6.0-windows\ModuleSeperateOrder.pdb
+E:\LEARNING\11_2\PackingMachine.core\obj\Debug\net6.0-windows\Components\CustomMessageBoxWindow.baml
+E:\LEARNING\11_2\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.g.resources
+E:\LEARNING\11_2\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.GeneratedMSBuildEditorConfig.editorconfig
+E:\LEARNING\11_2\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.AssemblyInfoInputs.cache
+E:\LEARNING\11_2\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.AssemblyInfo.cs
+E:\LEARNING\11_2\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.csproj.CoreCompileInputs.cache
+E:\LEARNING\11_2\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.csproj.CopyComplete
+E:\LEARNING\11_2\PackingMachine.core\obj\Debug\net6.0-windows\ref\PackingMachine.core.dll
+E:\LEARNING\11_2\PackingMachine.core\obj\Debug\net6.0-windows\Components\EmployeeChart.g.cs
+E:\LEARNING\11_2\PackingMachine.core\obj\Debug\net6.0-windows\Components\EmployeeChart.baml
+E:\LEARNING\DesktopApp\PackingMachine.core\bin\Debug\net6.0-windows\PackingMachine.core.deps.json
+E:\LEARNING\DesktopApp\PackingMachine.core\bin\Debug\net6.0-windows\PackingMachine.core.dll
+E:\LEARNING\DesktopApp\PackingMachine.core\bin\Debug\net6.0-windows\PackingMachine.core.pdb
+E:\LEARNING\DesktopApp\PackingMachine.core\bin\Debug\net6.0-windows\ModuleSeperateOrder.dll
+E:\LEARNING\DesktopApp\PackingMachine.core\bin\Debug\net6.0-windows\ModuleSeperateOrder.pdb
+E:\LEARNING\DesktopApp\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.csproj.AssemblyReference.cache
+E:\LEARNING\DesktopApp\PackingMachine.core\obj\Debug\net6.0-windows\Components\CustomMessageBoxWindow.g.cs
+E:\LEARNING\DesktopApp\PackingMachine.core\obj\Debug\net6.0-windows\Components\EmployeeChart.g.cs
+E:\LEARNING\DesktopApp\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core_MarkupCompile.cache
+E:\LEARNING\DesktopApp\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core_MarkupCompile.lref
+E:\LEARNING\DesktopApp\PackingMachine.core\obj\Debug\net6.0-windows\Components\CustomMessageBoxWindow.baml
+E:\LEARNING\DesktopApp\PackingMachine.core\obj\Debug\net6.0-windows\Components\EmployeeChart.baml
+E:\LEARNING\DesktopApp\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.g.resources
+E:\LEARNING\DesktopApp\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.GeneratedMSBuildEditorConfig.editorconfig
+E:\LEARNING\DesktopApp\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.AssemblyInfoInputs.cache
+E:\LEARNING\DesktopApp\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.AssemblyInfo.cs
+E:\LEARNING\DesktopApp\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.csproj.CoreCompileInputs.cache
+E:\LEARNING\DesktopApp\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.csproj.CopyComplete
+E:\LEARNING\DesktopApp\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.dll
+E:\LEARNING\DesktopApp\PackingMachine.core\obj\Debug\net6.0-windows\refint\PackingMachine.core.dll
+E:\LEARNING\DesktopApp\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.pdb
+E:\LEARNING\DesktopApp\PackingMachine.core\obj\Debug\net6.0-windows\ref\PackingMachine.core.dll
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine.core\bin\Debug\net6.0-windows\PackingMachine.core.deps.json
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine.core\bin\Debug\net6.0-windows\PackingMachine.core.dll
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine.core\bin\Debug\net6.0-windows\PackingMachine.core.pdb
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine.core\bin\Debug\net6.0-windows\ModuleSeperateOrder.dll
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine.core\bin\Debug\net6.0-windows\ModuleSeperateOrder.pdb
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.csproj.AssemblyReference.cache
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine.core\obj\Debug\net6.0-windows\Components\CustomMessageBoxWindow.g.cs
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine.core\obj\Debug\net6.0-windows\Components\EmployeeChart.g.cs
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core_MarkupCompile.cache
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core_MarkupCompile.lref
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine.core\obj\Debug\net6.0-windows\Components\CustomMessageBoxWindow.baml
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine.core\obj\Debug\net6.0-windows\Components\EmployeeChart.baml
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.g.resources
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.GeneratedMSBuildEditorConfig.editorconfig
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.AssemblyInfoInputs.cache
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.AssemblyInfo.cs
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.csproj.CoreCompileInputs.cache
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.csproj.CopyComplete
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.dll
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine.core\obj\Debug\net6.0-windows\refint\PackingMachine.core.dll
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine.core\obj\Debug\net6.0-windows\PackingMachine.core.pdb
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine.core\obj\Debug\net6.0-windows\ref\PackingMachine.core.dll

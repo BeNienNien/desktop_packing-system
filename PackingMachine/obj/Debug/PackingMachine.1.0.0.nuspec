@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>PackingMachine</id>
+    <version>1.0.0</version>
+    <authors>PackingMachine</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0">
+        <dependency id="FontAwesome.WPF" version="4.7.0.9" exclude="Build,Analyzers" />
+        <dependency id="MaterialDesignColors" version="2.0.5" exclude="Build,Analyzers" />
+        <dependency id="MaterialDesignThemes" version="4.4.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.DependencyInjection" version="6.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.DependencyInjection.Abstractions" version="6.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Hosting" version="6.0.1" exclude="Build,Analyzers" />
+        <dependency id="Prism.Wpf" version="8.0.0.1909" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+    </frameworkReferences>
+    <contentFiles>
+      <files include="any/net6.0-windows7.0/Assets/images/Logo BK_vien trang (1).jpg" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Assets/images/unnamed.png" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\PackingMachine.runtimeconfig.json" target="lib\net6.0-windows7.0\PackingMachine.runtimeconfig.json" />
+    <file src="C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\bin\Debug\net6.0-windows\PackingMachine.dll" target="lib\net6.0-windows7.0\PackingMachine.dll" />
+    <file src="C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\Assets\images\Logo BK_vien trang (1).jpg" target="content\Assets\images\Logo BK_vien trang (1).jpg" />
+    <file src="C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\Assets\images\Logo BK_vien trang (1).jpg" target="contentFiles\any\net6.0-windows7.0\Assets\images\Logo BK_vien trang (1).jpg" />
+    <file src="C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\Assets\images\unnamed.png" target="content\Assets\images\unnamed.png" />
+    <file src="C:\Users\a\Desktop\WPF\Project\PackingMachine\PackingMachine\Assets\images\unnamed.png" target="contentFiles\any\net6.0-windows7.0\Assets\images\unnamed.png" />
+  </files>
+</package>
