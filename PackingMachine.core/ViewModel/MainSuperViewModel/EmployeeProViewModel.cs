@@ -24,16 +24,16 @@ namespace PackingMachine.core.ViewModel.MainSuperViewModel
         private ObservableCollection<DataChart> _dataList1;
         public ObservableCollection<DataChart> DataList1 { get => _dataList1; set { _dataList1=value; OnPropertyChanged(nameof(DataList1)); } }
 
-        private ObservableCollection<DataChart> _dataList2;
-        public ObservableCollection<DataChart> DataList2 { get => _dataList2; set { _dataList2=value; OnPropertyChanged(nameof(DataList2)); } }
-        private ObservableCollection<DataChart> _dataList3;
-        public ObservableCollection<DataChart> DataList3 { get => _dataList3; set { _dataList3=value; OnPropertyChanged(nameof(DataList3)); } }
-        private ObservableCollection<DataChart> _dataList4;
-        public ObservableCollection<DataChart> DataList4 { get => _dataList4; set { _dataList4=value; OnPropertyChanged(nameof(DataList4)); } }
-        private ObservableCollection<DataChart> _dataList5;
-        public ObservableCollection<DataChart> DataList5 { get => _dataList5; set { _dataList5=value; OnPropertyChanged(nameof(DataList5)); } }
-        private ObservableCollection<DataChart> _dataList6;
-        public ObservableCollection<DataChart> DataList6 { get => _dataList6; set { _dataList6=value; OnPropertyChanged(nameof(DataList6)); } }
+        //private ObservableCollection<DataChart> _dataList2;
+        //public ObservableCollection<DataChart> DataList2 { get => _dataList2; set { _dataList2=value; OnPropertyChanged(nameof(DataList2)); } }
+        //private ObservableCollection<DataChart> _dataList3;
+        //public ObservableCollection<DataChart> DataList3 { get => _dataList3; set { _dataList3=value; OnPropertyChanged(nameof(DataList3)); } }
+        //private ObservableCollection<DataChart> _dataList4;
+        //public ObservableCollection<DataChart> DataList4 { get => _dataList4; set { _dataList4=value; OnPropertyChanged(nameof(DataList4)); } }
+        //private ObservableCollection<DataChart> _dataList5;
+        //public ObservableCollection<DataChart> DataList5 { get => _dataList5; set { _dataList5=value; OnPropertyChanged(nameof(DataList5)); } }
+        //private ObservableCollection<DataChart> _dataList6;
+        //public ObservableCollection<DataChart> DataList6 { get => _dataList6; set { _dataList6=value; OnPropertyChanged(nameof(DataList6)); } }
         public ICommand ChartCommand { get; set; }
         private IBusControl _busControl;
 
@@ -161,31 +161,31 @@ namespace PackingMachine.core.ViewModel.MainSuperViewModel
                     executionTime=Message.ExecutionTime;
                     DataList1.Add(new DataChart("DG1",timeStamp,executionTime));
                     break;
-                case "DG2":
-                    timeStamp=Message.Timestamp;
-                    executionTime=Message.ExecutionTime;
-                    DataList2.Add(new DataChart("DG2",timeStamp,executionTime));
-                    break;
-                case "DG3":
-                    timeStamp=Message.Timestamp;
-                    executionTime=Message.ExecutionTime;
-                    DataList3.Add(new DataChart("DG3",timeStamp,executionTime));
-                    break;
-                case "DG4":
-                    timeStamp=Message.Timestamp;
-                    executionTime=Message.ExecutionTime;
-                    DataList4.Add(new DataChart("DG4",timeStamp,executionTime));
-                    break;
-                case "DG5":
-                    timeStamp=Message.Timestamp;
-                    executionTime=Message.ExecutionTime;
-                    DataList5.Add(new DataChart("DG5",timeStamp,executionTime));
-                    break;
-                case "DG6":
-                    timeStamp=Message.Timestamp;
-                    executionTime=Message.ExecutionTime;
-                    DataList6.Add(new DataChart("DG6",timeStamp,executionTime));
-                    break;
+                    //case "DG2":
+                    //    timeStamp=Message.Timestamp;
+                    //    executionTime=Message.ExecutionTime;
+                    //    DataList2.Add(new DataChart("DG2",timeStamp,executionTime));
+                    //    break;
+                    //case "DG3":
+                    //    timeStamp=Message.Timestamp;
+                    //    executionTime=Message.ExecutionTime;
+                    //    DataList3.Add(new DataChart("DG3",timeStamp,executionTime));
+                    //    break;
+                    //case "DG4":
+                    //    timeStamp=Message.Timestamp;
+                    //    executionTime=Message.ExecutionTime;
+                    //    DataList4.Add(new DataChart("DG4",timeStamp,executionTime));
+                    //    break;
+                    //case "DG5":
+                    //    timeStamp=Message.Timestamp;
+                    //    executionTime=Message.ExecutionTime;
+                    //    DataList5.Add(new DataChart("DG5",timeStamp,executionTime));
+                    //    break;
+                    //case "DG6":
+                    //    timeStamp=Message.Timestamp;
+                    //    executionTime=Message.ExecutionTime;
+                    //    DataList6.Add(new DataChart("DG6",timeStamp,executionTime));
+                    //    break;
             }
         }
 

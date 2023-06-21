@@ -130,3 +130,6 @@ E:\LUẬN VĂN\desktop_packing-system\PackingMachine\obj\Release\net6.0-windows\
 E:\LUẬN VĂN\desktop_packing-system\PackingMachine\obj\Release\net6.0-windows\PackingMachine.pdb
 E:\LUẬN VĂN\desktop_packing-system\PackingMachine\obj\Release\net6.0-windows\PackingMachine.genruntimeconfig.cache
 E:\LUẬN VĂN\desktop_packing-system\PackingMachine\obj\Release\net6.0-windows\ref\PackingMachine.dll
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Release\net6.0-windows\ReportTemplate.xlsx
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Release\net6.0-windows\Export6Machine.xlsx
+E:\LUẬN VĂN\desktop_packing-system\PackingMachine\bin\Release\net6.0-windows\ExportExcel.xlsx

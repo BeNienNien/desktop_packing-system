@@ -34,7 +34,7 @@ namespace PackingMachine.core.Components
             Title="Thời gian chuẩn",
             PointGeometry=DefaultGeometries.Circle,
             PointForeground=Brushes.DeepSkyBlue,
-            PointGeometrySize=3
+            PointGeometrySize=8
         };
         LineSeries LineData =
         new LineSeries( )
@@ -42,7 +42,7 @@ namespace PackingMachine.core.Components
             Title="Thời gian đóng gói 1 sản phẩm",
             PointGeometry=DefaultGeometries.Circle,
             PointForeground=Brushes.SkyBlue,
-            PointGeometrySize=3
+            PointGeometrySize=8
         };
         public EmployeeChart ( )
         {
@@ -60,11 +60,11 @@ namespace PackingMachine.core.Components
         public void chart ( )
         {
 
-            for ( int i = 0;i<5;i++ )
-            {
-                ExecutionTime.Add(30);
-                Labels.Add("abc");
-            }
+            //for ( int i = 0;i<5;i++ )
+            //{
+            //    ExecutionTime.Add(30);
+            //    Labels.Add("abc");
+            //}
             LineData.Values=ExecutionTime;
             LineSpeed.Values=TimeStandard;
             SeriesCollection.Add(LineData);

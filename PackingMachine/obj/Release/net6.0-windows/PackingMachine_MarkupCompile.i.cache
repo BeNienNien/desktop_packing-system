@@ -11,10 +11,10 @@ false
 TRACE;RELEASE;NET;NET6_0;NETCOREAPP
 E:\LUẬN VĂN\desktop_packing-system\PackingMachine\App.xaml
 201155958665
-111687809922
+141634300526
 24509736080
 249333449987
 Assets\components\MenuButton.xaml;Assets\components\MessageBox\MessageBox.xaml;Assets\components\MessageBox\WarningBox.xaml;Assets\Style\ColumnHeader.xaml;Assets\Style\MenuButton.xaml;Assets\Style\Scroll.xaml;MainWindow.xaml;Style\Color.xaml;Style\ColumnHeader.xaml;View\History\HistoryView.xaml;View\Login\LoginView.xaml;View\Report\PackingReportView.xaml;View\Setting\FisrtInforSettingView.xaml;View\Setting\IngredientSettingView.xaml;View\Setting\MainSetting.xaml;View\Setting\SettingView.xaml;View\Supervisor\EmployeeProView.xaml;View\Supervisor\MainSuperView.xaml;View\Supervisor\SupervisorView.xaml;View\Warning\WarningView.xaml;
 
-True
+False
 

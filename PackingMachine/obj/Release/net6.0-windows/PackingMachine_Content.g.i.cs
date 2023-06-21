@@ -8,6 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("export6machine.xlsx")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("exportexcel.xlsx")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("reporttemplate.xlsx")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("assets/images/1.png")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("assets/images/automation.png")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("assets/images/automation1.png")]

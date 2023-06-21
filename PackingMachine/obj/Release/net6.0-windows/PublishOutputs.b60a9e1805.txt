@@ -1,3 +1,6 @@
+E:\LUẬN VĂN\App\Export6Machine.xlsx
+E:\LUẬN VĂN\App\ExportExcel.xlsx
+E:\LUẬN VĂN\App\ReportTemplate.xlsx
 E:\LUẬN VĂN\App\PackingMachine.exe
 E:\LUẬN VĂN\App\Assets\images\1.png
 E:\LUẬN VĂN\App\Assets\images\Automation.png

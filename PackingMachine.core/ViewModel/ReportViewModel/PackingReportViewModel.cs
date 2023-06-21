@@ -167,8 +167,21 @@ namespace PackingMachine.core.ViewModel.ReportViewModel
         #region PUSH REPORT
         private ObservableCollection<ShiftReport> _shiftReport;
         public ObservableCollection<ShiftReport> ShiftReport { get => _shiftReport; set { _shiftReport=value; OnPropertyChanged( ); } }
-        private List<ItemShift> _itemShift;
-        public List<ItemShift> ItemShift { get => _itemShift; set { _itemShift=value; OnPropertyChanged( ); } }
+        private List<ItemShift> _itemShift1;
+        public List<ItemShift> ItemShift1 { get => _itemShift1; set { _itemShift1=value; OnPropertyChanged( ); } }
+
+        private List<ItemShift> _itemShift2;
+        public List<ItemShift> ItemShift2 { get => _itemShift2; set { _itemShift2=value; OnPropertyChanged( ); } }
+
+        private List<ItemShift> _itemShift3;
+        public List<ItemShift> ItemShift3 { get => _itemShift3; set { _itemShift3=value; OnPropertyChanged( ); } }
+        private List<ItemShift> _itemShift4;
+        public List<ItemShift> ItemShift4 { get => _itemShift4; set { _itemShift4=value; OnPropertyChanged( ); } }
+        private List<ItemShift> _itemShift5;
+        public List<ItemShift> ItemShift5 { get => _itemShift5; set { _itemShift5=value; OnPropertyChanged( ); } }
+
+        private List<ItemShift> _itemShift6;
+        public List<ItemShift> ItemShift6 { get => _itemShift6; set { _itemShift6=value; OnPropertyChanged( ); } }
         #endregion
         private Employee _employeePush;
         public Employee EmployeePush { get => _employeePush; set { _employeePush=value; OnPropertyChanged( ); } }
@@ -219,7 +232,12 @@ namespace PackingMachine.core.ViewModel.ReportViewModel
             // machine 6
             _InforOderStoreMachine6=InforOderStoreMachine6;
             ShiftReport=new ObservableCollection<ShiftReport>( );
-            ItemShift=new List<ItemShift>( );
+            ItemShift1=new List<ItemShift>( );
+            ItemShift2=new List<ItemShift>( );
+            ItemShift3=new List<ItemShift>( );
+            ItemShift4=new List<ItemShift>( );
+            ItemShift5=new List<ItemShift>( );
+            ItemShift6=new List<ItemShift>( );
             _apiServices=apiServices;
             GetEmployee( );
         }
@@ -443,7 +461,7 @@ namespace PackingMachine.core.ViewModel.ReportViewModel
             {
                 for ( int i = 0;i<a;i++ )
                 {
-                    ItemShift.Add(new ItemShift(_InforOderStoreMachine1.InforOrder [i]._ProductID,_InforOderStoreMachine1.InforOrder [i]._PlannedQuantity,_InforOderStoreMachine1.InforOrder [i]._ActualQuantity,_InforOderStoreMachine1.InforOrder [i]._Note,0));
+                    ItemShift1.Add(new ItemShift(_InforOderStoreMachine1.InforOrder [i]._ProductID,_InforOderStoreMachine1.InforOrder [i]._PlannedQuantity,_InforOderStoreMachine1.InforOrder [i]._ActualQuantity,_InforOderStoreMachine1.InforOrder [i]._Note,0));
                 }
                 foreach ( Employee g in AllEmployee )
                 {
@@ -453,13 +471,13 @@ namespace PackingMachine.core.ViewModel.ReportViewModel
                     }
                 }
 
-                ShiftReport.Add(new ShiftReport(_date,EmployeePush,_InforOderStoreMachine1.InforOrder [0]._PackingUnit,ItemShift,_InforOderStoreMachine1.InforOrder [0]._WorkingTime));
+                ShiftReport.Add(new ShiftReport(_date,EmployeePush,_InforOderStoreMachine1.InforOrder [0]._PackingUnit,ItemShift1,_InforOderStoreMachine1.InforOrder [0]._WorkingTime));
             }
             if ( b>0 )
             {
                 for ( int i = 0;i<b;i++ )
                 {
-                    ItemShift.Add(new ItemShift(_InforOderStoreMachine2.InforOrder [i]._ProductID,_InforOderStoreMachine2.InforOrder [i]._PlannedQuantity,_InforOderStoreMachine2.InforOrder [i]._ActualQuantity,_InforOderStoreMachine2.InforOrder [i]._Note,0));
+                    ItemShift2.Add(new ItemShift(_InforOderStoreMachine2.InforOrder [i]._ProductID,_InforOderStoreMachine2.InforOrder [i]._PlannedQuantity,_InforOderStoreMachine2.InforOrder [i]._ActualQuantity,_InforOderStoreMachine2.InforOrder [i]._Note,0));
                 }
                 foreach ( Employee g in AllEmployee )
                 {
@@ -469,13 +487,13 @@ namespace PackingMachine.core.ViewModel.ReportViewModel
                     }
                 }
 
-                ShiftReport.Add(new ShiftReport(_date,EmployeePush,_InforOderStoreMachine2.InforOrder [0]._PackingUnit,ItemShift,_InforOderStoreMachine2.InforOrder [0]._WorkingTime));
+                ShiftReport.Add(new ShiftReport(_date,EmployeePush,_InforOderStoreMachine2.InforOrder [0]._PackingUnit,ItemShift2,_InforOderStoreMachine2.InforOrder [0]._WorkingTime));
             }
             if ( c>0 )
             {
                 for ( int i = 0;i<c;i++ )
                 {
-                    ItemShift.Add(new ItemShift(_InforOderStoreMachine3.InforOrder [i]._ProductID,_InforOderStoreMachine3.InforOrder [i]._PlannedQuantity,_InforOderStoreMachine3.InforOrder [i]._ActualQuantity,_InforOderStoreMachine3.InforOrder [i]._Note,0));
+                    ItemShift3.Add(new ItemShift(_InforOderStoreMachine3.InforOrder [i]._ProductID,_InforOderStoreMachine3.InforOrder [i]._PlannedQuantity,_InforOderStoreMachine3.InforOrder [i]._ActualQuantity,_InforOderStoreMachine3.InforOrder [i]._Note,0));
                 }
                 foreach ( Employee g in AllEmployee )
                 {
@@ -485,13 +503,13 @@ namespace PackingMachine.core.ViewModel.ReportViewModel
                     }
                 }
 
-                ShiftReport.Add(new ShiftReport(_date,EmployeePush,_InforOderStoreMachine3.InforOrder [0]._PackingUnit,ItemShift,_InforOderStoreMachine3.InforOrder [0]._WorkingTime));
+                ShiftReport.Add(new ShiftReport(_date,EmployeePush,_InforOderStoreMachine3.InforOrder [0]._PackingUnit,ItemShift3,_InforOderStoreMachine3.InforOrder [0]._WorkingTime));
             }
             if ( d>0 )
             {
                 for ( int i = 0;i<d;i++ )
                 {
-                    ItemShift.Add(new ItemShift(_InforOderStoreMachine4.InforOrder [i]._ProductID,_InforOderStoreMachine4.InforOrder [i]._PlannedQuantity,_InforOderStoreMachine4.InforOrder [i]._ActualQuantity,_InforOderStoreMachine4.InforOrder [i]._Note,0));
+                    ItemShift4.Add(new ItemShift(_InforOderStoreMachine4.InforOrder [i]._ProductID,_InforOderStoreMachine4.InforOrder [i]._PlannedQuantity,_InforOderStoreMachine4.InforOrder [i]._ActualQuantity,_InforOderStoreMachine4.InforOrder [i]._Note,0));
                 }
                 foreach ( Employee g in AllEmployee )
                 {
@@ -501,13 +519,13 @@ namespace PackingMachine.core.ViewModel.ReportViewModel
                     }
                 }
 
-                ShiftReport.Add(new ShiftReport(_date,EmployeePush,_InforOderStoreMachine4.InforOrder [0]._PackingUnit,ItemShift,_InforOderStoreMachine4.InforOrder [0]._WorkingTime));
+                ShiftReport.Add(new ShiftReport(_date,EmployeePush,_InforOderStoreMachine4.InforOrder [0]._PackingUnit,ItemShift4,_InforOderStoreMachine4.InforOrder [0]._WorkingTime));
             }
             if ( e>0 )
             {
                 for ( int i = 0;i<e;i++ )
                 {
-                    ItemShift.Add(new ItemShift(_InforOderStoreMachine5.InforOrder [i]._ProductID,_InforOderStoreMachine5.InforOrder [i]._PlannedQuantity,_InforOderStoreMachine5.InforOrder [i]._ActualQuantity,_InforOderStoreMachine5.InforOrder [i]._Note,0));
+                    ItemShift5.Add(new ItemShift(_InforOderStoreMachine5.InforOrder [i]._ProductID,_InforOderStoreMachine5.InforOrder [i]._PlannedQuantity,_InforOderStoreMachine5.InforOrder [i]._ActualQuantity,_InforOderStoreMachine5.InforOrder [i]._Note,0));
                 }
                 foreach ( Employee g in AllEmployee )
                 {
@@ -517,13 +535,13 @@ namespace PackingMachine.core.ViewModel.ReportViewModel
                     }
                 }
 
-                ShiftReport.Add(new ShiftReport(_date,EmployeePush,_InforOderStoreMachine5.InforOrder [0]._PackingUnit,ItemShift,_InforOderStoreMachine5.InforOrder [0]._WorkingTime));
+                ShiftReport.Add(new ShiftReport(_date,EmployeePush,_InforOderStoreMachine5.InforOrder [0]._PackingUnit,ItemShift5,_InforOderStoreMachine5.InforOrder [0]._WorkingTime));
             }
             if ( f>0 )
             {
                 for ( int i = 0;i<f;i++ )
                 {
-                    ItemShift.Add(new ItemShift(_InforOderStoreMachine6.InforOrder [i]._ProductID,_InforOderStoreMachine6.InforOrder [i]._PlannedQuantity,_InforOderStoreMachine6.InforOrder [i]._ActualQuantity,_InforOderStoreMachine6.InforOrder [i]._Note,0));
+                    ItemShift6.Add(new ItemShift(_InforOderStoreMachine6.InforOrder [i]._ProductID,_InforOderStoreMachine6.InforOrder [i]._PlannedQuantity,_InforOderStoreMachine6.InforOrder [i]._ActualQuantity,_InforOderStoreMachine6.InforOrder [i]._Note,0));
                 }
                 foreach ( Employee g in AllEmployee )
                 {
@@ -533,11 +551,16 @@ namespace PackingMachine.core.ViewModel.ReportViewModel
                     }
                 }
                 i=0;
-                ShiftReport.Add(new ShiftReport(_date,EmployeePush,_InforOderStoreMachine6.InforOrder [0]._PackingUnit,ItemShift,_InforOderStoreMachine6.InforOrder [0]._WorkingTime));
+                ShiftReport.Add(new ShiftReport(_date,EmployeePush,_InforOderStoreMachine6.InforOrder [0]._PackingUnit,ItemShift6,_InforOderStoreMachine6.InforOrder [0]._WorkingTime));
             }
 
             await _apiServices.PostShiftReport("",ShiftReport);
-            ItemShift.Clear( );
+            ItemShift1.Clear( );
+            ItemShift2.Clear( );
+            ItemShift3.Clear( );
+            ItemShift4.Clear( );
+            ItemShift5.Clear( );
+            ItemShift6.Clear( );
             ShiftReport.Clear( );
             IsDialogOpen=true;
             MessageBox.ContentText="Gửi lên máy chủ thành công!";
